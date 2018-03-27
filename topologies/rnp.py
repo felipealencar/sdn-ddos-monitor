@@ -90,9 +90,9 @@ def myNetwork():
     net.addLink(s29, s23)
 
     h1 = net.addHost('h1', cls=Host, ip='10.0.0.1', defaultRoute=None)
-    net.addLink(h1, s1)
+    net.addLink(h1, s3)
     h2 = net.addHost('h2', cls=Host, ip='10.0.0.2', defaultRoute=None)
-    net.addLink(h2, s1)
+    net.addLink(h2, s3)
     h3 = net.addHost('h3', cls=Host, ip='10.0.0.3', defaultRoute=None)
     net.addLink(h3, s27)
 
