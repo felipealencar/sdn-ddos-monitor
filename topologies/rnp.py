@@ -93,7 +93,7 @@ def myNetwork():
     h2 = net.addHost('h2', cls=Host, ip='10.0.0.2', defaultRoute=None)
     net.addLink(h2, s3)
     h3 = net.addHost('h3', cls=Host, ip='10.0.0.3', defaultRoute=None)
-    net.addLink(h3, s27)
+    net.addLink(h3, s29)
 
     info('*** Starting network\n')
     net.build()
