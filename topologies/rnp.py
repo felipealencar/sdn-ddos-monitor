@@ -54,7 +54,6 @@ def myNetwork():
     s28 = net.addSwitch('s28', cls=OVSKernelSwitch, protocols='OpenFlow13')
     s29 = net.addSwitch('s29', cls=OVSKernelSwitch, protocols='OpenFlow13')
 
-
     info('*** Add links\n')
     net.addLink(s1, s2)
     net.addLink(s3, s2)
