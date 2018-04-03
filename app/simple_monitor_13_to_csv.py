@@ -15,7 +15,7 @@
 
 from operator import attrgetter
 
-from ryu.app import simple_switch_13
+from ryu.app import simple_switch_stp_13
 from ryu.controller import ofp_event
 from ryu.controller.handler import MAIN_DISPATCHER, DEAD_DISPATCHER
 from ryu.controller.handler import set_ev_cls
@@ -25,7 +25,7 @@ import csv
 import os.path
 
 
-class SimpleMonitor13(simple_switch_13.SimpleSwitch13):
+class SimpleMonitor13(simple_switch_stp_13.SimpleSwitch13):
 
     def __init__(self, *args, **kwargs):
         super(SimpleMonitor13, self).__init__(*args, **kwargs)
