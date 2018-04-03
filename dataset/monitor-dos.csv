@@ -1,0 +1,4 @@
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,42:39:6c:14:2b:e8,       6,      13,    1274
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       6,d2:33:e1:6c:cd:fd,       5,     709,   30506
