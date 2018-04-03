@@ -31,7 +31,7 @@ class SimpleMonitor13(simple_switch_13.SimpleSwitch13):
         super(SimpleMonitor13, self).__init__(*args, **kwargs)
         self.datapaths = {}
         self.monitor_thread = hub.spawn(self._monitor)
-        self.file_exists = os.path.isfile('/home/mininet/Testbed/2018-dataset/monitor-dos.csv')
+        self.file_exists = os.path.isfile('../dataset/monitor-dos.csv')
 
     @set_ev_cls(ofp_event.EventOFPStateChange,
                 [MAIN_DISPATCHER, DEAD_DISPATCHER])
@@ -84,7 +84,7 @@ class SimpleMonitor13(simple_switch_13.SimpleSwitch13):
                              stat.match['in_port'], stat.match['eth_dst'],
                              stat.instructions[0].actions[0].port,
                              stat.packet_count, stat.byte_count)
-            with open('/home/mininet/Testbed/2018-dataset/monitor-dos.csv', 'ab') as csvfile:
+            with open('../dataset/monitor-dos.csv', 'ab') as csvfile:
                 fieldnames = ['datapath', 'in-port', 'eth-dst', 'out-port', 'packets', 'bytes']
                 writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
                 if not self.file_exists:
