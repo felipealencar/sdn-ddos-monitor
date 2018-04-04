@@ -31,7 +31,8 @@ class SimpleMonitor13(simple_switch_stp_13.SimpleSwitch13):
         super(SimpleMonitor13, self).__init__(*args, **kwargs)
         self.datapaths = {}
         self.monitor_thread = hub.spawn(self._monitor)
-        self.file_exists = os.path.isfile('../dataset/monitor-dos.csv')
+        self.file1_exists = os.path.isfile('../dataset/monitor-ddos-flow-stats.csv')
+        self.file2_exists = os.path.isfile('../dataset/monitor-ddos-port-stats.csv')
 
     @set_ev_cls(ofp_event.EventOFPStateChange,
                 [MAIN_DISPATCHER, DEAD_DISPATCHER])
@@ -68,7 +69,6 @@ class SimpleMonitor13(simple_switch_stp_13.SimpleSwitch13):
         
         body = ev.msg.body
 
-
         self.logger.info('datapath         '
                          'in-port  eth-dst           '
                          'out-port packets  bytes')
@@ -84,10 +84,10 @@ class SimpleMonitor13(simple_switch_stp_13.SimpleSwitch13):
                              stat.match['in_port'], stat.match['eth_dst'],
                              stat.instructions[0].actions[0].port,
                              stat.packet_count, stat.byte_count)
-            with open('../dataset/monitor-dos.csv', 'ab') as csvfile:
+            with open('../dataset/monitor-ddos-flow-stats.csv', 'ab') as csvfile:
                 fieldnames = ['datapath', 'in-port', 'eth-dst', 'out-port', 'packets', 'bytes']
                 writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
-                if not self.file_exists:
+                if not self.file1_exists:
                     writer.writeheader()
                 datapath_id = "%016x" % ev.msg.datapath.id
                 inport = "%8x" % stat.match['in_port']
@@ -113,3 +113,19 @@ class SimpleMonitor13(simple_switch_stp_13.SimpleSwitch13):
                              ev.msg.datapath.id, stat.port_no,
                              stat.rx_packets, stat.rx_bytes, stat.rx_errors,
                              stat.tx_packets, stat.tx_bytes, stat.tx_errors)
+            with open('../dataset/monitor-ddos-port-stats.csv', 'ab') as csvfile:
+                fieldnames = ['datapath', 'port', 'rx-pkts', 'rx-bytes', 'rx-error', 'tx-pkts', 'tx-bytes', 'tx-error']
+                writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+                if not self.file2_exists:
+                    writer.writeheader()
+                datapath_id = "%016x" % ev.msg.datapath.id
+                port = "%8x" % stat.port_no
+                rx_pkts = "%8d" % stat.rx_pkts
+                rx_bytes = "%8d" % stat.rx_bytes
+                rx_error = "%8d" % stat.rx_errors
+                tx_pkts = "%8d" % stat.tx_packets
+                tx_bytes = "%8d" % stat.tx_bytes
+                tx_error = "%8d" % stat.tx_errors
+                writer.writerow({'datapath': datapath_id, 'port': port, 'rx-pkts': rx_pkts,
+                                 'rx-bytes': rx_bytes, 'rx-error': rx_error, 'tx-pkts': tx_pkts,
+                                 'tx-bytes': tx_bytes, 'tx_error': tx_error})
