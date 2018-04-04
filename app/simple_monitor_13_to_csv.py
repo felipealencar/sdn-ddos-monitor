@@ -128,4 +128,4 @@ class SimpleMonitor13(simple_switch_stp_13.SimpleSwitch13):
                 tx_error = "%8d" % stat.tx_errors
                 writer.writerow({'datapath': datapath_id, 'port': port, 'rx-pkts': rx_pkts,
                                  'rx-bytes': rx_bytes, 'rx-error': rx_error, 'tx-pkts': tx_pkts,
-                                 'tx-bytes': tx_bytes, 'tx_error': tx_error})
+                                 'tx-bytes': tx_bytes, 'tx-error': tx_error})
