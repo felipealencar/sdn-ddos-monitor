@@ -1,0 +1,2256 @@
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       1,ba:c0:db:0d:0f:5c,       2,   45626,25215602
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       2,56:ab:2f:58:62:ce,       1,      98,    6335
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       1,ba:c0:db:0d:0f:5c,       2,   45626,25215602
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       2,56:ab:2f:58:62:ce,       1,      98,    6335
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       1,ba:c0:db:0d:0f:5c,       4,   45626,25215602
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       4,56:ab:2f:58:62:ce,       1,      98,    6335
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       1,ba:c0:db:0d:0f:5c,       3,   45626,25215602
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       3,56:ab:2f:58:62:ce,       1,      98,    6335
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       2,56:ab:2f:58:62:ce,       5,      98,    6335
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,26:12:27:48:d3:37,       6,       1,      98
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,ba:c0:db:0d:0f:5c,       2,   45626,25215602
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       6,56:ab:2f:58:62:ce,       5,       2,     196
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       1,ba:c0:db:0d:0f:5c,       4,   45626,25215602
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       4,56:ab:2f:58:62:ce,       1,      98,    6335
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       1,ba:c0:db:0d:0f:5c,       2,   45626,25215602
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       2,56:ab:2f:58:62:ce,       1,      98,    6335
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       2,56:ab:2f:58:62:ce,       5,      98,    6335
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,26:12:27:48:d3:37,       6,       1,      98
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,ba:c0:db:0d:0f:5c,       2,   45626,25215602
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       6,56:ab:2f:58:62:ce,       5,       2,     196
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       1,ba:c0:db:0d:0f:5c,       2,   45626,25215602
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       2,56:ab:2f:58:62:ce,       1,      98,    6335
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       1,ba:c0:db:0d:0f:5c,       3,   45626,25215602
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       3,56:ab:2f:58:62:ce,       1,      98,    6335
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       1,ba:c0:db:0d:0f:5c,       3,   45626,25215602
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       3,56:ab:2f:58:62:ce,       1,      98,    6335
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       1,ba:c0:db:0d:0f:5c,       4,   45626,25215602
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       4,56:ab:2f:58:62:ce,       1,      98,    6335
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       2,56:ab:2f:58:62:ce,       5,      98,    6335
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,26:12:27:48:d3:37,       6,       1,      98
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,ba:c0:db:0d:0f:5c,       2,   45626,25215602
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       6,56:ab:2f:58:62:ce,       5,       2,     196
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       1,ba:c0:db:0d:0f:5c,       2,   45626,25215602
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       2,56:ab:2f:58:62:ce,       1,      98,    6335
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       1,ba:c0:db:0d:0f:5c,       2,   45626,25215602
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       2,56:ab:2f:58:62:ce,       1,      98,    6335
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       1,ba:c0:db:0d:0f:5c,       2,   64724,35562251
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       2,56:ab:2f:58:62:ce,       1,     106,    6870
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       1,ba:c0:db:0d:0f:5c,       3,   64724,35562251
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       3,56:ab:2f:58:62:ce,       1,     106,    6870
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       1,ba:c0:db:0d:0f:5c,       2,   64724,35562251
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       2,56:ab:2f:58:62:ce,       1,     106,    6870
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       1,ba:c0:db:0d:0f:5c,       4,   64724,35562251
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       4,56:ab:2f:58:62:ce,       1,     106,    6870
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       2,56:ab:2f:58:62:ce,       5,     106,    6870
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,26:12:27:48:d3:37,       6,       1,      98
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,ba:c0:db:0d:0f:5c,       2,   64724,35562251
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       6,56:ab:2f:58:62:ce,       5,       2,     196
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       2,56:ab:2f:58:62:ce,       5,     106,    6870
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,26:12:27:48:d3:37,       6,       1,      98
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,ba:c0:db:0d:0f:5c,       2,   90468,49515499
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       6,56:ab:2f:58:62:ce,       5,       2,     196
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       1,ba:c0:db:0d:0f:5c,       4,   90468,49515499
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       4,56:ab:2f:58:62:ce,       1,     106,    6870
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       1,ba:c0:db:0d:0f:5c,       2,   90468,49515499
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       2,56:ab:2f:58:62:ce,       1,     106,    6870
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       1,ba:c0:db:0d:0f:5c,       3,   90468,49515499
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       3,56:ab:2f:58:62:ce,       1,     106,    6870
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       1,ba:c0:db:0d:0f:5c,       2,   90468,49515499
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       2,56:ab:2f:58:62:ce,       1,     106,    6870
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       1,ba:c0:db:0d:0f:5c,       4,  115902,63300727
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       4,56:ab:2f:58:62:ce,       1,     106,    6870
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       1,ba:c0:db:0d:0f:5c,       2,  115902,63300727
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       2,56:ab:2f:58:62:ce,       1,     106,    6870
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       2,56:ab:2f:58:62:ce,       5,     106,    6870
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,26:12:27:48:d3:37,       6,       1,      98
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,ba:c0:db:0d:0f:5c,       2,  115902,63300727
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       6,56:ab:2f:58:62:ce,       5,       2,     196
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       1,ba:c0:db:0d:0f:5c,       3,  115902,63300727
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       3,56:ab:2f:58:62:ce,       1,     106,    6870
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       1,ba:c0:db:0d:0f:5c,       2,  115902,63300727
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       2,56:ab:2f:58:62:ce,       1,     106,    6870
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       1,ba:c0:db:0d:0f:5c,       3,  141490,77168923
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       3,56:ab:2f:58:62:ce,       1,     107,    6912
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       1,ba:c0:db:0d:0f:5c,       2,  141490,77168923
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       2,56:ab:2f:58:62:ce,       1,     107,    6912
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       1,ba:c0:db:0d:0f:5c,       2,  141490,77168923
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       2,56:ab:2f:58:62:ce,       1,     107,    6912
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       2,56:ab:2f:58:62:ce,       5,     107,    6912
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,26:12:27:48:d3:37,       6,       1,      98
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,ba:c0:db:0d:0f:5c,       2,  141490,77168923
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       6,56:ab:2f:58:62:ce,       5,       2,     196
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       1,ba:c0:db:0d:0f:5c,       4,  141490,77168923
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       4,56:ab:2f:58:62:ce,       1,     107,    6912
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       1,ba:c0:db:0d:0f:5c,       2,  167180,91092903
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       2,56:ab:2f:58:62:ce,       1,     107,    6912
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       1,ba:c0:db:0d:0f:5c,       2,  167180,91092903
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       2,56:ab:2f:58:62:ce,       1,     107,    6912
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       1,ba:c0:db:0d:0f:5c,       3,  167180,91092903
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       3,56:ab:2f:58:62:ce,       1,     107,    6912
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       2,56:ab:2f:58:62:ce,       5,     107,    6912
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,26:12:27:48:d3:37,       6,       1,      98
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,ba:c0:db:0d:0f:5c,       2,  167180,91092903
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       6,56:ab:2f:58:62:ce,       5,       2,     196
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       1,ba:c0:db:0d:0f:5c,       4,  167180,91092903
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       4,56:ab:2f:58:62:ce,       1,     107,    6912
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       1,ba:c0:db:0d:0f:5c,       2,  192805,104981653
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       2,56:ab:2f:58:62:ce,       1,     107,    6912
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       1,ba:c0:db:0d:0f:5c,       3,  192805,104981653
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       3,56:ab:2f:58:62:ce,       1,     107,    6912
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       1,ba:c0:db:0d:0f:5c,       4,  192805,104981653
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       4,56:ab:2f:58:62:ce,       1,     107,    6912
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       1,ba:c0:db:0d:0f:5c,       2,  192805,104981653
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       2,56:ab:2f:58:62:ce,       1,     107,    6912
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       2,56:ab:2f:58:62:ce,       5,     107,    6912
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,26:12:27:48:d3:37,       6,       1,      98
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,ba:c0:db:0d:0f:5c,       2,  192805,104981653
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       6,56:ab:2f:58:62:ce,       5,       2,     196
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       1,ba:c0:db:0d:0f:5c,       3,  218517,118917057
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       3,56:ab:2f:58:62:ce,       1,     108,    6954
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       1,ba:c0:db:0d:0f:5c,       2,  218517,118917057
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       2,56:ab:2f:58:62:ce,       1,     108,    6954
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       1,ba:c0:db:0d:0f:5c,       2,  218517,118917057
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       2,56:ab:2f:58:62:ce,       1,     108,    6954
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       1,ba:c0:db:0d:0f:5c,       4,  218517,118917057
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       4,56:ab:2f:58:62:ce,       1,     108,    6954
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       2,56:ab:2f:58:62:ce,       5,     108,    6954
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,26:12:27:48:d3:37,       6,       1,      98
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,ba:c0:db:0d:0f:5c,       2,  218517,118917057
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       6,56:ab:2f:58:62:ce,       5,       2,     196
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       1,ba:c0:db:0d:0f:5c,       2,  244459,132977621
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       2,56:ab:2f:58:62:ce,       1,     108,    6954
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       1,ba:c0:db:0d:0f:5c,       4,  244459,132977621
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       4,56:ab:2f:58:62:ce,       1,     108,    6954
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       2,56:ab:2f:58:62:ce,       5,     108,    6954
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,26:12:27:48:d3:37,       6,       1,      98
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,ba:c0:db:0d:0f:5c,       2,  244459,132977621
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       6,56:ab:2f:58:62:ce,       5,       2,     196
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       1,ba:c0:db:0d:0f:5c,       3,  244459,132977621
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       3,56:ab:2f:58:62:ce,       1,     108,    6954
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       1,ba:c0:db:0d:0f:5c,       2,  244459,132977621
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       2,56:ab:2f:58:62:ce,       1,     108,    6954
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       1,ba:c0:db:0d:0f:5c,       2,  270019,146831141
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       2,56:ab:2f:58:62:ce,       1,     108,    6954
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       1,ba:c0:db:0d:0f:5c,       2,  270019,146831141
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       2,56:ab:2f:58:62:ce,       1,     108,    6954
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       2,56:ab:2f:58:62:ce,       5,     108,    6954
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,26:12:27:48:d3:37,       6,       1,      98
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,ba:c0:db:0d:0f:5c,       2,  270019,146831141
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       6,56:ab:2f:58:62:ce,       5,       2,     196
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       1,ba:c0:db:0d:0f:5c,       3,  270019,146831141
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       3,56:ab:2f:58:62:ce,       1,     108,    6954
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       1,ba:c0:db:0d:0f:5c,       4,  270019,146831141
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       4,56:ab:2f:58:62:ce,       1,     108,    6954
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       1,ba:c0:db:0d:0f:5c,       4,  295373,160572509
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       4,56:ab:2f:58:62:ce,       1,     109,    6996
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       2,56:ab:2f:58:62:ce,       5,     109,    6996
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,26:12:27:48:d3:37,       6,       1,      98
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,ba:c0:db:0d:0f:5c,       2,  295373,160572509
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       6,56:ab:2f:58:62:ce,       5,       2,     196
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       1,ba:c0:db:0d:0f:5c,       3,  295373,160572509
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       3,56:ab:2f:58:62:ce,       1,     109,    6996
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       1,ba:c0:db:0d:0f:5c,       2,  295373,160572509
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       2,56:ab:2f:58:62:ce,       1,     109,    6996
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       1,ba:c0:db:0d:0f:5c,       2,  295373,160572509
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       2,56:ab:2f:58:62:ce,       1,     109,    6996
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       1,ba:c0:db:0d:0f:5c,       4,  321289,174617530
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       4,56:ab:2f:58:62:ce,       1,     112,    7171
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       1,ba:c0:db:0d:0f:5c,       2,  321289,174617530
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       2,56:ab:2f:58:62:ce,       1,     112,    7171
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       1,ba:c0:db:0d:0f:5c,       3,  321289,174617530
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       3,56:ab:2f:58:62:ce,       1,     112,    7171
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       1,ba:c0:db:0d:0f:5c,       2,  321289,174617530
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       2,56:ab:2f:58:62:ce,       1,     112,    7171
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       2,56:ab:2f:58:62:ce,       5,     112,    7171
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,26:12:27:48:d3:37,       6,       1,      98
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,ba:c0:db:0d:0f:5c,       2,  321289,174617530
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       6,56:ab:2f:58:62:ce,       5,       2,     196
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       1,ba:c0:db:0d:0f:5c,       2,  346487,188274846
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       2,56:ab:2f:58:62:ce,       1,     112,    7171
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       1,ba:c0:db:0d:0f:5c,       2,  346487,188274846
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       2,56:ab:2f:58:62:ce,       1,     112,    7171
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       1,ba:c0:db:0d:0f:5c,       4,  346487,188274846
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       4,56:ab:2f:58:62:ce,       1,     112,    7171
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       1,ba:c0:db:0d:0f:5c,       3,  346487,188274846
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       3,56:ab:2f:58:62:ce,       1,     112,    7171
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       2,56:ab:2f:58:62:ce,       5,     112,    7171
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,26:12:27:48:d3:37,       6,       1,      98
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,ba:c0:db:0d:0f:5c,       2,  346487,188274846
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       6,56:ab:2f:58:62:ce,       5,       2,     196
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       1,ba:c0:db:0d:0f:5c,       4,  371887,202041146
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       4,56:ab:2f:58:62:ce,       1,     113,    7213
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       2,56:ab:2f:58:62:ce,       5,     113,    7213
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,26:12:27:48:d3:37,       6,       1,      98
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,ba:c0:db:0d:0f:5c,       2,  371887,202041146
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       6,56:ab:2f:58:62:ce,       5,       2,     196
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       1,ba:c0:db:0d:0f:5c,       3,  371887,202041146
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       3,56:ab:2f:58:62:ce,       1,     113,    7213
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       1,ba:c0:db:0d:0f:5c,       2,  371887,202041146
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       2,56:ab:2f:58:62:ce,       1,     113,    7213
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       1,ba:c0:db:0d:0f:5c,       2,  371887,202041146
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       2,56:ab:2f:58:62:ce,       1,     113,    7213
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       1,ba:c0:db:0d:0f:5c,       2,  397854,216115260
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       2,56:ab:2f:58:62:ce,       1,     113,    7213
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       2,56:ab:2f:58:62:ce,       5,     113,    7213
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,26:12:27:48:d3:37,       6,       1,      98
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,ba:c0:db:0d:0f:5c,       2,  397854,216115260
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       6,56:ab:2f:58:62:ce,       5,       2,     196
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       1,ba:c0:db:0d:0f:5c,       4,  397854,216115260
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       4,56:ab:2f:58:62:ce,       1,     113,    7213
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       1,ba:c0:db:0d:0f:5c,       2,  397854,216115260
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       2,56:ab:2f:58:62:ce,       1,     113,    7213
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       1,ba:c0:db:0d:0f:5c,       3,  397854,216115260
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       3,56:ab:2f:58:62:ce,       1,     113,    7213
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       1,ba:c0:db:0d:0f:5c,       4,  423395,229958482
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       4,56:ab:2f:58:62:ce,       1,     113,    7213
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       1,ba:c0:db:0d:0f:5c,       3,  423395,229958482
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       3,56:ab:2f:58:62:ce,       1,     113,    7213
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       1,ba:c0:db:0d:0f:5c,       2,  423395,229958482
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       2,56:ab:2f:58:62:ce,       1,     113,    7213
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       2,56:ab:2f:58:62:ce,       5,     113,    7213
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,26:12:27:48:d3:37,       6,       1,      98
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,ba:c0:db:0d:0f:5c,       2,  423395,229958482
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       6,56:ab:2f:58:62:ce,       5,       2,     196
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       1,ba:c0:db:0d:0f:5c,       2,  423395,229958482
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       2,56:ab:2f:58:62:ce,       1,     113,    7213
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       1,ba:c0:db:0d:0f:5c,       2,  448730,243689552
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       2,56:ab:2f:58:62:ce,       1,     114,    7255
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       1,ba:c0:db:0d:0f:5c,       2,  448730,243689552
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       2,56:ab:2f:58:62:ce,       1,     114,    7255
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       1,ba:c0:db:0d:0f:5c,       4,  448730,243689552
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       4,56:ab:2f:58:62:ce,       1,     114,    7255
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       1,ba:c0:db:0d:0f:5c,       3,  448730,243689552
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       3,56:ab:2f:58:62:ce,       1,     114,    7255
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       2,56:ab:2f:58:62:ce,       5,     114,    7255
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,26:12:27:48:d3:37,       6,       1,      98
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,ba:c0:db:0d:0f:5c,       2,  448730,243689552
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       6,56:ab:2f:58:62:ce,       5,       2,     196
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       1,ba:c0:db:0d:0f:5c,       3,  474425,257616242
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       3,56:ab:2f:58:62:ce,       1,     114,    7255
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       2,56:ab:2f:58:62:ce,       5,     114,    7255
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,26:12:27:48:d3:37,       6,       1,      98
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,ba:c0:db:0d:0f:5c,       2,  474425,257616242
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       6,56:ab:2f:58:62:ce,       5,       2,     196
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       1,ba:c0:db:0d:0f:5c,       2,  474425,257616242
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       2,56:ab:2f:58:62:ce,       1,     114,    7255
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       1,ba:c0:db:0d:0f:5c,       2,  474425,257616242
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       2,56:ab:2f:58:62:ce,       1,     114,    7255
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       1,ba:c0:db:0d:0f:5c,       4,  474425,257616242
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       4,56:ab:2f:58:62:ce,       1,     114,    7255
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       1,ba:c0:db:0d:0f:5c,       2,  500244,271609640
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       2,56:ab:2f:58:62:ce,       1,     115,    7297
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       1,ba:c0:db:0d:0f:5c,       2,  500244,271609640
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       2,56:ab:2f:58:62:ce,       1,     115,    7297
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       1,ba:c0:db:0d:0f:5c,       3,  500244,271609640
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       3,56:ab:2f:58:62:ce,       1,     115,    7297
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       2,56:ab:2f:58:62:ce,       5,     115,    7297
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,26:12:27:48:d3:37,       6,       1,      98
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,ba:c0:db:0d:0f:5c,       2,  500244,271609640
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       6,56:ab:2f:58:62:ce,       5,       2,     196
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       1,ba:c0:db:0d:0f:5c,       4,  500244,271609640
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       4,56:ab:2f:58:62:ce,       1,     115,    7297
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       1,ba:c0:db:0d:0f:5c,       3,  526100,285623592
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       3,56:ab:2f:58:62:ce,       1,     115,    7297
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       2,56:ab:2f:58:62:ce,       5,     115,    7297
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,26:12:27:48:d3:37,       6,       1,      98
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,ba:c0:db:0d:0f:5c,       2,  526100,285623592
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       6,56:ab:2f:58:62:ce,       5,       2,     196
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       1,ba:c0:db:0d:0f:5c,       2,  526100,285623592
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       2,56:ab:2f:58:62:ce,       1,     115,    7297
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       1,ba:c0:db:0d:0f:5c,       4,  526100,285623592
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       4,56:ab:2f:58:62:ce,       1,     115,    7297
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       1,ba:c0:db:0d:0f:5c,       2,  526100,285623592
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       2,56:ab:2f:58:62:ce,       1,     115,    7297
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       1,ba:c0:db:0d:0f:5c,       3,  551895,299604482
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       3,56:ab:2f:58:62:ce,       1,     115,    7297
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       1,ba:c0:db:0d:0f:5c,       2,  551895,299604482
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       2,56:ab:2f:58:62:ce,       1,     115,    7297
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       1,ba:c0:db:0d:0f:5c,       2,  551895,299604482
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       2,56:ab:2f:58:62:ce,       1,     115,    7297
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       2,56:ab:2f:58:62:ce,       5,     115,    7297
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,26:12:27:48:d3:37,       6,       1,      98
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,ba:c0:db:0d:0f:5c,       2,  551895,299604482
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       6,56:ab:2f:58:62:ce,       5,       2,     196
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       1,ba:c0:db:0d:0f:5c,       4,  551895,299604482
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       4,56:ab:2f:58:62:ce,       1,     115,    7297
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       2,56:ab:2f:58:62:ce,       5,     118,    7472
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,26:12:27:48:d3:37,       6,       1,      98
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,ba:c0:db:0d:0f:5c,       2,  576625,313007167
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       6,56:ab:2f:58:62:ce,       5,       2,     196
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       1,ba:c0:db:0d:0f:5c,       2,  576625,313007167
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       2,56:ab:2f:58:62:ce,       1,     118,    7472
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       1,ba:c0:db:0d:0f:5c,       3,  576625,313007167
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       3,56:ab:2f:58:62:ce,       1,     118,    7472
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       1,ba:c0:db:0d:0f:5c,       2,  576625,313007167
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       2,56:ab:2f:58:62:ce,       1,     118,    7472
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       1,ba:c0:db:0d:0f:5c,       4,  576625,313007167
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       4,56:ab:2f:58:62:ce,       1,     118,    7472
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       1,ba:c0:db:0d:0f:5c,       2,  602145,326839007
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       2,56:ab:2f:58:62:ce,       1,     118,    7472
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       2,56:ab:2f:58:62:ce,       5,     118,    7472
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,26:12:27:48:d3:37,       6,       1,      98
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,ba:c0:db:0d:0f:5c,       2,  602145,326839007
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       6,56:ab:2f:58:62:ce,       5,       2,     196
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       1,ba:c0:db:0d:0f:5c,       4,  602145,326839007
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       4,56:ab:2f:58:62:ce,       1,     118,    7472
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       1,ba:c0:db:0d:0f:5c,       3,  602145,326839007
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       3,56:ab:2f:58:62:ce,       1,     118,    7472
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       1,ba:c0:db:0d:0f:5c,       2,  602145,326839007
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       2,56:ab:2f:58:62:ce,       1,     118,    7472
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       1,ba:c0:db:0d:0f:5c,       2,  627955,340827527
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       2,56:ab:2f:58:62:ce,       1,     119,    7514
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       2,56:ab:2f:58:62:ce,       5,     119,    7514
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,26:12:27:48:d3:37,       6,       1,      98
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,ba:c0:db:0d:0f:5c,       2,  627955,340827527
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       6,56:ab:2f:58:62:ce,       5,       2,     196
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       1,ba:c0:db:0d:0f:5c,       2,  627955,340827527
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       2,56:ab:2f:58:62:ce,       1,     119,    7514
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       1,ba:c0:db:0d:0f:5c,       3,  627955,340827527
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       3,56:ab:2f:58:62:ce,       1,     119,    7514
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       1,ba:c0:db:0d:0f:5c,       4,  627955,340827527
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       4,56:ab:2f:58:62:ce,       1,     119,    7514
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       2,56:ab:2f:58:62:ce,       5,     119,    7514
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,26:12:27:48:d3:37,       6,       1,      98
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,ba:c0:db:0d:0f:5c,       2,  653590,354721697
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       6,56:ab:2f:58:62:ce,       5,       2,     196
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       1,ba:c0:db:0d:0f:5c,       2,  653590,354721697
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       2,56:ab:2f:58:62:ce,       1,     119,    7514
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       1,ba:c0:db:0d:0f:5c,       3,  653590,354721697
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       3,56:ab:2f:58:62:ce,       1,     119,    7514
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       1,ba:c0:db:0d:0f:5c,       4,  653590,354721697
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       4,56:ab:2f:58:62:ce,       1,     119,    7514
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       1,ba:c0:db:0d:0f:5c,       2,  653590,354721697
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       2,56:ab:2f:58:62:ce,       1,     119,    7514
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       1,ba:c0:db:0d:0f:5c,       4,  678138,368026713
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       4,56:ab:2f:58:62:ce,       1,     119,    7514
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       1,ba:c0:db:0d:0f:5c,       3,  678138,368026713
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       3,56:ab:2f:58:62:ce,       1,     119,    7514
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       1,ba:c0:db:0d:0f:5c,       2,  678138,368026713
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       2,56:ab:2f:58:62:ce,       1,     119,    7514
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       2,56:ab:2f:58:62:ce,       5,     119,    7514
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,26:12:27:48:d3:37,       6,       1,      98
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,ba:c0:db:0d:0f:5c,       2,  678138,368026713
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       6,56:ab:2f:58:62:ce,       5,       2,     196
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       1,ba:c0:db:0d:0f:5c,       2,  678138,368026713
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       2,56:ab:2f:58:62:ce,       1,     119,    7514
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       1,ba:c0:db:0d:0f:5c,       2,  704053,382072143
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       2,56:ab:2f:58:62:ce,       1,     120,    7556
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       1,ba:c0:db:0d:0f:5c,       3,  704053,382072143
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       3,56:ab:2f:58:62:ce,       1,     120,    7556
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       1,ba:c0:db:0d:0f:5c,       4,  704053,382072143
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       4,56:ab:2f:58:62:ce,       1,     120,    7556
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       1,ba:c0:db:0d:0f:5c,       2,  704053,382072143
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       2,56:ab:2f:58:62:ce,       1,     120,    7556
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       2,56:ab:2f:58:62:ce,       5,     120,    7556
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,26:12:27:48:d3:37,       6,       1,      98
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,ba:c0:db:0d:0f:5c,       2,  704053,382072143
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       6,56:ab:2f:58:62:ce,       5,       2,     196
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       1,ba:c0:db:0d:0f:5c,       2,  729707,395976611
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       2,56:ab:2f:58:62:ce,       1,     120,    7556
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       1,ba:c0:db:0d:0f:5c,       2,  729707,395976611
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       2,56:ab:2f:58:62:ce,       1,     120,    7556
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       1,ba:c0:db:0d:0f:5c,       3,  729707,395976611
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       3,56:ab:2f:58:62:ce,       1,     120,    7556
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       1,ba:c0:db:0d:0f:5c,       4,  729707,395976611
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       4,56:ab:2f:58:62:ce,       1,     120,    7556
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       2,56:ab:2f:58:62:ce,       5,     120,    7556
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,26:12:27:48:d3:37,       6,       1,      98
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,ba:c0:db:0d:0f:5c,       2,  729707,395976611
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       6,56:ab:2f:58:62:ce,       5,       2,     196
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       2,56:ab:2f:58:62:ce,       5,     121,    7598
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,26:12:27:48:d3:37,       6,       1,      98
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,ba:c0:db:0d:0f:5c,       2,  754931,409647519
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       6,56:ab:2f:58:62:ce,       5,       2,     196
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       1,ba:c0:db:0d:0f:5c,       2,  754931,409647519
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       2,56:ab:2f:58:62:ce,       1,     121,    7598
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       1,ba:c0:db:0d:0f:5c,       3,  754931,409647519
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       3,56:ab:2f:58:62:ce,       1,     121,    7598
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       1,ba:c0:db:0d:0f:5c,       2,  754931,409647519
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       2,56:ab:2f:58:62:ce,       1,     121,    7598
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       1,ba:c0:db:0d:0f:5c,       4,  754931,409647519
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       4,56:ab:2f:58:62:ce,       1,     121,    7598
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       1,ba:c0:db:0d:0f:5c,       3,  780428,423466893
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       3,56:ab:2f:58:62:ce,       1,     121,    7598
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       1,ba:c0:db:0d:0f:5c,       2,  780428,423466893
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       2,56:ab:2f:58:62:ce,       1,     121,    7598
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       1,ba:c0:db:0d:0f:5c,       4,  780428,423466893
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       4,56:ab:2f:58:62:ce,       1,     121,    7598
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       2,56:ab:2f:58:62:ce,       5,     121,    7598
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,26:12:27:48:d3:37,       6,       1,      98
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,ba:c0:db:0d:0f:5c,       2,  780428,423466893
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       6,56:ab:2f:58:62:ce,       5,       2,     196
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       1,ba:c0:db:0d:0f:5c,       2,  780428,423466893
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       2,56:ab:2f:58:62:ce,       1,     121,    7598
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       1,ba:c0:db:0d:0f:5c,       4,  805537,437075971
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       4,56:ab:2f:58:62:ce,       1,     121,    7598
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       1,ba:c0:db:0d:0f:5c,       2,  805537,437075971
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       2,56:ab:2f:58:62:ce,       1,     121,    7598
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       1,ba:c0:db:0d:0f:5c,       2,  805537,437075971
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       2,56:ab:2f:58:62:ce,       1,     121,    7598
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       1,ba:c0:db:0d:0f:5c,       3,  805537,437075971
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       3,56:ab:2f:58:62:ce,       1,     121,    7598
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       2,56:ab:2f:58:62:ce,       5,     121,    7598
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,26:12:27:48:d3:37,       6,       1,      98
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,ba:c0:db:0d:0f:5c,       2,  805537,437075971
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       6,56:ab:2f:58:62:ce,       5,       2,     196
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       1,ba:c0:db:0d:0f:5c,       2,  831291,451033664
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       2,56:ab:2f:58:62:ce,       1,     124,    7773
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       1,ba:c0:db:0d:0f:5c,       4,  831291,451033664
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       4,56:ab:2f:58:62:ce,       1,     124,    7773
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       1,ba:c0:db:0d:0f:5c,       3,  831291,451033664
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       3,56:ab:2f:58:62:ce,       1,     124,    7773
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       1,ba:c0:db:0d:0f:5c,       2,  831291,451033664
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       2,56:ab:2f:58:62:ce,       1,     124,    7773
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       2,56:ab:2f:58:62:ce,       5,     124,    7773
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,26:12:27:48:d3:37,       6,       1,      98
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,ba:c0:db:0d:0f:5c,       2,  831291,451033664
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       6,56:ab:2f:58:62:ce,       5,       2,     196
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       1,ba:c0:db:0d:0f:5c,       4,  856824,464872550
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       4,56:ab:2f:58:62:ce,       1,     124,    7773
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       1,ba:c0:db:0d:0f:5c,       3,  856824,464872550
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       3,56:ab:2f:58:62:ce,       1,     124,    7773
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       2,56:ab:2f:58:62:ce,       5,     124,    7773
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,26:12:27:48:d3:37,       6,       1,      98
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,ba:c0:db:0d:0f:5c,       2,  856824,464872550
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       6,56:ab:2f:58:62:ce,       5,       2,     196
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       1,ba:c0:db:0d:0f:5c,       2,  856824,464872550
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       2,56:ab:2f:58:62:ce,       1,     124,    7773
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       1,ba:c0:db:0d:0f:5c,       2,  856824,464872550
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       2,56:ab:2f:58:62:ce,       1,     124,    7773
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       1,ba:c0:db:0d:0f:5c,       2,  882434,478752670
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       2,56:ab:2f:58:62:ce,       1,     125,    7815
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       1,ba:c0:db:0d:0f:5c,       3,  882434,478752670
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       3,56:ab:2f:58:62:ce,       1,     125,    7815
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       1,ba:c0:db:0d:0f:5c,       4,  882434,478752670
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       4,56:ab:2f:58:62:ce,       1,     125,    7815
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       1,ba:c0:db:0d:0f:5c,       2,  882434,478752670
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       2,56:ab:2f:58:62:ce,       1,     125,    7815
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       2,56:ab:2f:58:62:ce,       5,     125,    7815
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,26:12:27:48:d3:37,       6,       1,      98
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,ba:c0:db:0d:0f:5c,       2,  882434,478752670
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       6,56:ab:2f:58:62:ce,       5,       2,     196
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       2,56:ab:2f:58:62:ce,       5,     125,    7815
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,26:12:27:48:d3:37,       6,       1,      98
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,ba:c0:db:0d:0f:5c,       2,  906624,491863650
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       6,56:ab:2f:58:62:ce,       5,       2,     196
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       1,ba:c0:db:0d:0f:5c,       4,  906624,491863650
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       4,56:ab:2f:58:62:ce,       1,     125,    7815
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       1,ba:c0:db:0d:0f:5c,       3,  906624,491863650
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       3,56:ab:2f:58:62:ce,       1,     125,    7815
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       1,ba:c0:db:0d:0f:5c,       2,  906624,491863650
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       2,56:ab:2f:58:62:ce,       1,     125,    7815
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       1,ba:c0:db:0d:0f:5c,       2,  906624,491863650
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       2,56:ab:2f:58:62:ce,       1,     125,    7815
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       1,ba:c0:db:0d:0f:5c,       2,  932331,505796844
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       2,56:ab:2f:58:62:ce,       1,     125,    7815
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       1,ba:c0:db:0d:0f:5c,       2,  932331,505796844
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       2,56:ab:2f:58:62:ce,       1,     125,    7815
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       2,56:ab:2f:58:62:ce,       5,     125,    7815
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,26:12:27:48:d3:37,       6,       1,      98
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,ba:c0:db:0d:0f:5c,       2,  932331,505796844
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       6,56:ab:2f:58:62:ce,       5,       2,     196
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       1,ba:c0:db:0d:0f:5c,       4,  932331,505796844
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       4,56:ab:2f:58:62:ce,       1,     125,    7815
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       1,ba:c0:db:0d:0f:5c,       3,  932331,505796844
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       3,56:ab:2f:58:62:ce,       1,     125,    7815
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       1,ba:c0:db:0d:0f:5c,       3,  957964,519689430
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       3,56:ab:2f:58:62:ce,       1,     126,    7857
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       1,ba:c0:db:0d:0f:5c,       2,  957964,519689430
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       2,56:ab:2f:58:62:ce,       1,     126,    7857
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       1,ba:c0:db:0d:0f:5c,       4,  957964,519689430
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       4,56:ab:2f:58:62:ce,       1,     126,    7857
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       1,ba:c0:db:0d:0f:5c,       2,  957964,519689430
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       2,56:ab:2f:58:62:ce,       1,     126,    7857
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       2,56:ab:2f:58:62:ce,       5,     126,    7857
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,26:12:27:48:d3:37,       6,       1,      98
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,ba:c0:db:0d:0f:5c,       2,  957964,519689430
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       6,56:ab:2f:58:62:ce,       5,       2,     196
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       1,ba:c0:db:0d:0f:5c,       3,  983752,533666526
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       3,56:ab:2f:58:62:ce,       1,     126,    7857
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       1,ba:c0:db:0d:0f:5c,       2,  983752,533666526
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       2,56:ab:2f:58:62:ce,       1,     126,    7857
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       1,ba:c0:db:0d:0f:5c,       2,  983752,533666526
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       2,56:ab:2f:58:62:ce,       1,     126,    7857
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       2,56:ab:2f:58:62:ce,       5,     126,    7857
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,26:12:27:48:d3:37,       6,       1,      98
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,ba:c0:db:0d:0f:5c,       2,  983752,533666526
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       6,56:ab:2f:58:62:ce,       5,       2,     196
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       1,ba:c0:db:0d:0f:5c,       4,  983752,533666526
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       4,56:ab:2f:58:62:ce,       1,     126,    7857
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       2,56:ab:2f:58:62:ce,       5,     126,    7857
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,26:12:27:48:d3:37,       6,       1,      98
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,ba:c0:db:0d:0f:5c,       2, 1009687,547723296
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       6,56:ab:2f:58:62:ce,       5,       2,     196
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       1,ba:c0:db:0d:0f:5c,       3, 1009687,547723296
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       3,56:ab:2f:58:62:ce,       1,     126,    7857
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       1,ba:c0:db:0d:0f:5c,       2, 1009687,547723296
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       2,56:ab:2f:58:62:ce,       1,     126,    7857
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       1,ba:c0:db:0d:0f:5c,       2, 1009687,547723296
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       2,56:ab:2f:58:62:ce,       1,     126,    7857
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       1,ba:c0:db:0d:0f:5c,       4, 1009687,547723296
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       4,56:ab:2f:58:62:ce,       1,     126,    7857
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       1,ba:c0:db:0d:0f:5c,       4, 1035024,561455450
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       4,56:ab:2f:58:62:ce,       1,     127,    7899
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       1,ba:c0:db:0d:0f:5c,       3, 1035024,561455450
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       3,56:ab:2f:58:62:ce,       1,     127,    7899
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       1,ba:c0:db:0d:0f:5c,       2, 1035024,561455450
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       2,56:ab:2f:58:62:ce,       1,     127,    7899
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       1,ba:c0:db:0d:0f:5c,       2, 1035024,561455450
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       2,56:ab:2f:58:62:ce,       1,     127,    7899
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       2,56:ab:2f:58:62:ce,       5,     127,    7899
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,26:12:27:48:d3:37,       6,       1,      98
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,ba:c0:db:0d:0f:5c,       2, 1035024,561455450
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       6,56:ab:2f:58:62:ce,       5,       2,     196
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       2,56:ab:2f:58:62:ce,       5,     127,    7899
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,26:12:27:48:d3:37,       6,       1,      98
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,ba:c0:db:0d:0f:5c,       2, 1060408,575213578
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       6,56:ab:2f:58:62:ce,       5,       2,     196
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       1,ba:c0:db:0d:0f:5c,       2, 1060408,575213578
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       2,56:ab:2f:58:62:ce,       1,     127,    7899
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       1,ba:c0:db:0d:0f:5c,       4, 1060408,575213578
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       4,56:ab:2f:58:62:ce,       1,     127,    7899
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       1,ba:c0:db:0d:0f:5c,       3, 1060408,575213578
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       3,56:ab:2f:58:62:ce,       1,     127,    7899
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       1,ba:c0:db:0d:0f:5c,       2, 1060408,575213578
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       2,56:ab:2f:58:62:ce,       1,     127,    7899
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       1,ba:c0:db:0d:0f:5c,       3, 1086099,589137125
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       3,56:ab:2f:58:62:ce,       1,     130,    8074
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       1,ba:c0:db:0d:0f:5c,       2, 1086099,589137125
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       2,56:ab:2f:58:62:ce,       1,     130,    8074
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       1,ba:c0:db:0d:0f:5c,       4, 1086099,589137125
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       4,56:ab:2f:58:62:ce,       1,     130,    8074
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       2,56:ab:2f:58:62:ce,       5,     130,    8074
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,26:12:27:48:d3:37,       6,       1,      98
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,ba:c0:db:0d:0f:5c,       2, 1086099,589137125
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       6,56:ab:2f:58:62:ce,       5,       2,     196
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       1,ba:c0:db:0d:0f:5c,       2, 1086099,589137125
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       2,56:ab:2f:58:62:ce,       1,     130,    8074
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       2,56:ab:2f:58:62:ce,       5,     130,    8074
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,26:12:27:48:d3:37,       6,       1,      98
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,ba:c0:db:0d:0f:5c,       2, 1111949,603147825
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       6,56:ab:2f:58:62:ce,       5,       2,     196
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       1,ba:c0:db:0d:0f:5c,       2, 1111949,603147825
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       2,56:ab:2f:58:62:ce,       1,     130,    8074
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       1,ba:c0:db:0d:0f:5c,       3, 1111949,603147825
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       3,56:ab:2f:58:62:ce,       1,     130,    8074
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       1,ba:c0:db:0d:0f:5c,       2, 1111949,603147825
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       2,56:ab:2f:58:62:ce,       1,     130,    8074
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       1,ba:c0:db:0d:0f:5c,       4, 1111949,603147825
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       4,56:ab:2f:58:62:ce,       1,     130,    8074
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       1,ba:c0:db:0d:0f:5c,       3, 1137323,616900533
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       3,56:ab:2f:58:62:ce,       1,     130,    8074
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       1,ba:c0:db:0d:0f:5c,       2, 1137323,616900533
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       2,56:ab:2f:58:62:ce,       1,     130,    8074
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       1,ba:c0:db:0d:0f:5c,       4, 1137323,616900533
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       4,56:ab:2f:58:62:ce,       1,     130,    8074
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       1,ba:c0:db:0d:0f:5c,       2, 1137323,616900533
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       2,56:ab:2f:58:62:ce,       1,     130,    8074
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       2,56:ab:2f:58:62:ce,       5,     130,    8074
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,26:12:27:48:d3:37,       6,       1,      98
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,ba:c0:db:0d:0f:5c,       2, 1137323,616900533
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       6,56:ab:2f:58:62:ce,       5,       2,     196
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       2,56:ab:2f:58:62:ce,       5,     131,    8116
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,26:12:27:48:d3:37,       6,       1,      98
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,ba:c0:db:0d:0f:5c,       2, 1162937,630782821
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       6,56:ab:2f:58:62:ce,       5,       2,     196
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       1,ba:c0:db:0d:0f:5c,       2, 1162937,630782821
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       2,56:ab:2f:58:62:ce,       1,     131,    8116
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       1,ba:c0:db:0d:0f:5c,       3, 1162937,630782821
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       3,56:ab:2f:58:62:ce,       1,     131,    8116
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       1,ba:c0:db:0d:0f:5c,       2, 1162937,630782821
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       2,56:ab:2f:58:62:ce,       1,     131,    8116
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       1,ba:c0:db:0d:0f:5c,       4, 1162937,630782821
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       4,56:ab:2f:58:62:ce,       1,     131,    8116
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       1,ba:c0:db:0d:0f:5c,       2, 1188460,644616287
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       2,56:ab:2f:58:62:ce,       1,     131,    8116
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       2,56:ab:2f:58:62:ce,       5,     131,    8116
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,26:12:27:48:d3:37,       6,       1,      98
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,ba:c0:db:0d:0f:5c,       2, 1187188,643926863
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       6,56:ab:2f:58:62:ce,       5,       2,     196
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       1,ba:c0:db:0d:0f:5c,       3, 1188460,644616287
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       3,56:ab:2f:58:62:ce,       1,     131,    8116
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       1,ba:c0:db:0d:0f:5c,       4, 1188460,644616287
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       4,56:ab:2f:58:62:ce,       1,     131,    8116
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       1,ba:c0:db:0d:0f:5c,       2, 1188460,644616287
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       2,56:ab:2f:58:62:ce,       1,     131,    8116
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       1,ba:c0:db:0d:0f:5c,       2, 1214024,658471975
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       2,56:ab:2f:58:62:ce,       1,     131,    8116
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       1,ba:c0:db:0d:0f:5c,       2, 1212739,657775505
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       2,56:ab:2f:58:62:ce,       1,     131,    8116
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       2,56:ab:2f:58:62:ce,       5,     131,    8116
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,26:12:27:48:d3:37,       6,       1,      98
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,ba:c0:db:0d:0f:5c,       2, 1212739,657775505
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       6,56:ab:2f:58:62:ce,       5,       2,     196
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       1,ba:c0:db:0d:0f:5c,       3, 1214024,658471975
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       3,56:ab:2f:58:62:ce,       1,     131,    8116
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       1,ba:c0:db:0d:0f:5c,       4, 1212739,657775505
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       4,56:ab:2f:58:62:ce,       1,     131,    8116
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       1,ba:c0:db:0d:0f:5c,       4, 1238477,671725501
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       4,56:ab:2f:58:62:ce,       1,     131,    8116
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       1,ba:c0:db:0d:0f:5c,       3, 1239758,672419803
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       3,56:ab:2f:58:62:ce,       1,     131,    8116
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       1,ba:c0:db:0d:0f:5c,       2, 1239758,672419803
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       2,56:ab:2f:58:62:ce,       1,     131,    8116
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       1,ba:c0:db:0d:0f:5c,       2, 1238477,671725501
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       2,56:ab:2f:58:62:ce,       1,     131,    8116
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       2,56:ab:2f:58:62:ce,       5,     131,    8116
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,26:12:27:48:d3:37,       6,       1,      98
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,ba:c0:db:0d:0f:5c,       2, 1238477,671725501
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       6,56:ab:2f:58:62:ce,       5,       2,     196
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       1,ba:c0:db:0d:0f:5c,       2, 1265230,686225127
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       2,56:ab:2f:58:62:ce,       1,     132,    8158
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       1,ba:c0:db:0d:0f:5c,       2, 1263966,685540039
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       2,56:ab:2f:58:62:ce,       1,     132,    8158
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       2,56:ab:2f:58:62:ce,       5,     132,    8158
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,26:12:27:48:d3:37,       6,       1,      98
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,ba:c0:db:0d:0f:5c,       2, 1263966,685540039
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       6,56:ab:2f:58:62:ce,       5,       2,     196
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       1,ba:c0:db:0d:0f:5c,       3, 1265230,686225127
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       3,56:ab:2f:58:62:ce,       1,     132,    8158
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       1,ba:c0:db:0d:0f:5c,       4, 1263966,685540039
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       4,56:ab:2f:58:62:ce,       1,     132,    8158
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       1,ba:c0:db:0d:0f:5c,       2, 1289702,699488951
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       2,56:ab:2f:58:62:ce,       1,     132,    8158
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       1,ba:c0:db:0d:0f:5c,       2, 1289702,699488951
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       2,56:ab:2f:58:62:ce,       1,     132,    8158
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       1,ba:c0:db:0d:0f:5c,       3, 1290963,700172413
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       3,56:ab:2f:58:62:ce,       1,     132,    8158
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       1,ba:c0:db:0d:0f:5c,       4, 1289702,699488951
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       4,56:ab:2f:58:62:ce,       1,     132,    8158
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       2,56:ab:2f:58:62:ce,       5,     132,    8158
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,26:12:27:48:d3:37,       6,       1,      98
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,ba:c0:db:0d:0f:5c,       2, 1289702,699488951
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       6,56:ab:2f:58:62:ce,       5,       2,     196
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       1,ba:c0:db:0d:0f:5c,       2, 1315555,713501277
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       2,56:ab:2f:58:62:ce,       1,     132,    8158
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       1,ba:c0:db:0d:0f:5c,       2, 1315555,713501277
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       2,56:ab:2f:58:62:ce,       1,     132,    8158
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       1,ba:c0:db:0d:0f:5c,       4, 1315555,713501277
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       4,56:ab:2f:58:62:ce,       1,     132,    8158
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       2,56:ab:2f:58:62:ce,       5,     132,    8158
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,26:12:27:48:d3:37,       6,       1,      98
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,ba:c0:db:0d:0f:5c,       2, 1315555,713501277
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       6,56:ab:2f:58:62:ce,       5,       2,     196
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       1,ba:c0:db:0d:0f:5c,       3, 1315555,713501277
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       3,56:ab:2f:58:62:ce,       1,     132,    8158
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       1,ba:c0:db:0d:0f:5c,       4, 1340854,727212360
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       4,56:ab:2f:58:62:ce,       1,     135,    8333
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       1,ba:c0:db:0d:0f:5c,       2, 1340854,727212360
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       2,56:ab:2f:58:62:ce,       1,     135,    8333
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       1,ba:c0:db:0d:0f:5c,       2, 1340854,727212360
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       2,56:ab:2f:58:62:ce,       1,     135,    8333
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       1,ba:c0:db:0d:0f:5c,       3, 1340854,727212360
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       3,56:ab:2f:58:62:ce,       1,     135,    8333
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       2,56:ab:2f:58:62:ce,       5,     135,    8333
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,26:12:27:48:d3:37,       6,       1,      98
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,ba:c0:db:0d:0f:5c,       2, 1340854,727212360
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       6,56:ab:2f:58:62:ce,       5,       2,     196
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       1,ba:c0:db:0d:0f:5c,       2, 1365761,740711954
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       2,56:ab:2f:58:62:ce,       1,     135,    8333
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       1,ba:c0:db:0d:0f:5c,       4, 1365761,740711954
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       4,56:ab:2f:58:62:ce,       1,     135,    8333
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       2,56:ab:2f:58:62:ce,       5,     135,    8333
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,26:12:27:48:d3:37,       6,       1,      98
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,ba:c0:db:0d:0f:5c,       2, 1365761,740711954
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       6,56:ab:2f:58:62:ce,       5,       2,     196
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       1,ba:c0:db:0d:0f:5c,       3, 1365761,740711954
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       3,56:ab:2f:58:62:ce,       1,     135,    8333
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       1,ba:c0:db:0d:0f:5c,       2, 1365761,740711954
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       2,56:ab:2f:58:62:ce,       1,     135,    8333
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       2,56:ab:2f:58:62:ce,       5,     135,    8333
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,26:12:27:48:d3:37,       6,       1,      98
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,ba:c0:db:0d:0f:5c,       2, 1391532,754679836
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       6,56:ab:2f:58:62:ce,       5,       2,     196
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       1,ba:c0:db:0d:0f:5c,       2, 1391532,754679836
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       2,56:ab:2f:58:62:ce,       1,     135,    8333
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       1,ba:c0:db:0d:0f:5c,       2, 1391532,754679836
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       2,56:ab:2f:58:62:ce,       1,     135,    8333
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       1,ba:c0:db:0d:0f:5c,       4, 1391532,754679836
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       4,56:ab:2f:58:62:ce,       1,     135,    8333
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       1,ba:c0:db:0d:0f:5c,       3, 1391532,754679836
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       3,56:ab:2f:58:62:ce,       1,     135,    8333
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       1,ba:c0:db:0d:0f:5c,       3, 1417347,768671066
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       3,56:ab:2f:58:62:ce,       1,     136,    8375
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       2,56:ab:2f:58:62:ce,       5,     136,    8375
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,26:12:27:48:d3:37,       6,       1,      98
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,ba:c0:db:0d:0f:5c,       2, 1417347,768671066
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       6,56:ab:2f:58:62:ce,       5,       2,     196
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       1,ba:c0:db:0d:0f:5c,       4, 1417347,768671066
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       4,56:ab:2f:58:62:ce,       1,     136,    8375
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       1,ba:c0:db:0d:0f:5c,       2, 1417347,768671066
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       2,56:ab:2f:58:62:ce,       1,     136,    8375
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       1,ba:c0:db:0d:0f:5c,       2, 1417347,768671066
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       2,56:ab:2f:58:62:ce,       1,     136,    8375
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       1,ba:c0:db:0d:0f:5c,       4, 1442327,782210226
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       4,56:ab:2f:58:62:ce,       1,     136,    8375
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       2,56:ab:2f:58:62:ce,       5,     136,    8375
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,26:12:27:48:d3:37,       6,       1,      98
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,ba:c0:db:0d:0f:5c,       2, 1442327,782210226
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       6,56:ab:2f:58:62:ce,       5,       2,     196
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       1,ba:c0:db:0d:0f:5c,       3, 1442327,782210226
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       3,56:ab:2f:58:62:ce,       1,     136,    8375
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       1,ba:c0:db:0d:0f:5c,       2, 1442327,782210226
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       2,56:ab:2f:58:62:ce,       1,     136,    8375
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       1,ba:c0:db:0d:0f:5c,       2, 1442327,782210226
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       2,56:ab:2f:58:62:ce,       1,     136,    8375
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       1,ba:c0:db:0d:0f:5c,       3, 1468208,796237728
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       3,56:ab:2f:58:62:ce,       1,     136,    8375
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       1,ba:c0:db:0d:0f:5c,       2, 1468208,796237728
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       2,56:ab:2f:58:62:ce,       1,     136,    8375
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       1,ba:c0:db:0d:0f:5c,       2, 1468208,796237728
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       2,56:ab:2f:58:62:ce,       1,     136,    8375
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       1,ba:c0:db:0d:0f:5c,       4, 1468208,796237728
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       4,56:ab:2f:58:62:ce,       1,     136,    8375
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       2,56:ab:2f:58:62:ce,       5,     136,    8375
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,26:12:27:48:d3:37,       6,       1,      98
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,ba:c0:db:0d:0f:5c,       2, 1468208,796237728
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       6,56:ab:2f:58:62:ce,       5,       2,     196
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       2,56:ab:2f:58:62:ce,       5,     136,    8375
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,26:12:27:48:d3:37,       6,       1,      98
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,ba:c0:db:0d:0f:5c,       2, 1493788,810102088
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       6,56:ab:2f:58:62:ce,       5,       2,     196
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       1,ba:c0:db:0d:0f:5c,       2, 1493788,810102088
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       2,56:ab:2f:58:62:ce,       1,     136,    8375
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       1,ba:c0:db:0d:0f:5c,       4, 1493788,810102088
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       4,56:ab:2f:58:62:ce,       1,     136,    8375
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       1,ba:c0:db:0d:0f:5c,       3, 1493788,810102088
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       3,56:ab:2f:58:62:ce,       1,     136,    8375
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       1,ba:c0:db:0d:0f:5c,       2, 1493788,810102088
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       2,56:ab:2f:58:62:ce,       1,     136,    8375
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       1,ba:c0:db:0d:0f:5c,       3, 1519168,823857548
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       3,56:ab:2f:58:62:ce,       1,     137,    8417
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       1,ba:c0:db:0d:0f:5c,       2, 1519168,823857548
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       2,56:ab:2f:58:62:ce,       1,     137,    8417
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       1,ba:c0:db:0d:0f:5c,       2, 1519168,823857548
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       2,56:ab:2f:58:62:ce,       1,     137,    8417
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       1,ba:c0:db:0d:0f:5c,       4, 1519168,823857548
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       4,56:ab:2f:58:62:ce,       1,     137,    8417
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       2,56:ab:2f:58:62:ce,       5,     137,    8417
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,26:12:27:48:d3:37,       6,       1,      98
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,ba:c0:db:0d:0f:5c,       2, 1519168,823857548
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       6,56:ab:2f:58:62:ce,       5,       2,     196
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       1,ba:c0:db:0d:0f:5c,       4, 1544584,837633020
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       4,56:ab:2f:58:62:ce,       1,     137,    8417
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       1,ba:c0:db:0d:0f:5c,       2, 1544584,837633020
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       2,56:ab:2f:58:62:ce,       1,     137,    8417
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       2,56:ab:2f:58:62:ce,       5,     137,    8417
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,26:12:27:48:d3:37,       6,       1,      98
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,ba:c0:db:0d:0f:5c,       2, 1544584,837633020
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       6,56:ab:2f:58:62:ce,       5,       2,     196
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       1,ba:c0:db:0d:0f:5c,       3, 1544584,837633020
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       3,56:ab:2f:58:62:ce,       1,     137,    8417
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       1,ba:c0:db:0d:0f:5c,       2, 1544584,837633020
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       2,56:ab:2f:58:62:ce,       1,     137,    8417
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       1,ba:c0:db:0d:0f:5c,       3, 1570467,851661606
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       3,56:ab:2f:58:62:ce,       1,     137,    8417
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       2,56:ab:2f:58:62:ce,       5,     137,    8417
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,26:12:27:48:d3:37,       6,       1,      98
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,ba:c0:db:0d:0f:5c,       2, 1570467,851661606
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       6,56:ab:2f:58:62:ce,       5,       2,     196
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       1,ba:c0:db:0d:0f:5c,       2, 1570467,851661606
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       2,56:ab:2f:58:62:ce,       1,     137,    8417
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       1,ba:c0:db:0d:0f:5c,       4, 1570467,851661606
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       4,56:ab:2f:58:62:ce,       1,     137,    8417
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       1,ba:c0:db:0d:0f:5c,       2, 1570467,851661606
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       2,56:ab:2f:58:62:ce,       1,     137,    8417
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       1,ba:c0:db:0d:0f:5c,       4, 1596122,865565641
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       4,56:ab:2f:58:62:ce,       1,     140,    8592
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       1,ba:c0:db:0d:0f:5c,       2, 1596122,865565641
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       2,56:ab:2f:58:62:ce,       1,     140,    8592
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       2,56:ab:2f:58:62:ce,       5,     140,    8592
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,26:12:27:48:d3:37,       6,       1,      98
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,ba:c0:db:0d:0f:5c,       2, 1596122,865565641
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       6,56:ab:2f:58:62:ce,       5,       2,     196
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       1,ba:c0:db:0d:0f:5c,       2, 1596122,865565641
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       2,56:ab:2f:58:62:ce,       1,     140,    8592
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       1,ba:c0:db:0d:0f:5c,       3, 1596122,865565641
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       3,56:ab:2f:58:62:ce,       1,     140,    8592
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       1,ba:c0:db:0d:0f:5c,       4, 1621795,879480407
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       4,56:ab:2f:58:62:ce,       1,     140,    8592
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       1,ba:c0:db:0d:0f:5c,       2, 1621795,879480407
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       2,56:ab:2f:58:62:ce,       1,     140,    8592
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       1,ba:c0:db:0d:0f:5c,       2, 1621795,879480407
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       2,56:ab:2f:58:62:ce,       1,     140,    8592
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       1,ba:c0:db:0d:0f:5c,       3, 1621795,879480407
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       3,56:ab:2f:58:62:ce,       1,     140,    8592
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       2,56:ab:2f:58:62:ce,       5,     140,    8592
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,26:12:27:48:d3:37,       6,       1,      98
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,ba:c0:db:0d:0f:5c,       2, 1621795,879480407
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       6,56:ab:2f:58:62:ce,       5,       2,     196
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       1,ba:c0:db:0d:0f:5c,       3, 1647090,893190297
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       3,56:ab:2f:58:62:ce,       1,     140,    8592
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       2,56:ab:2f:58:62:ce,       5,     140,    8592
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,26:12:27:48:d3:37,       6,       1,      98
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,ba:c0:db:0d:0f:5c,       2, 1647090,893190297
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       6,56:ab:2f:58:62:ce,       5,       2,     196
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       1,ba:c0:db:0d:0f:5c,       2, 1647090,893190297
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       2,56:ab:2f:58:62:ce,       1,     140,    8592
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       1,ba:c0:db:0d:0f:5c,       2, 1647090,893190297
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       2,56:ab:2f:58:62:ce,       1,     140,    8592
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       1,ba:c0:db:0d:0f:5c,       4, 1647090,893190297
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       4,56:ab:2f:58:62:ce,       1,     140,    8592
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       1,ba:c0:db:0d:0f:5c,       3, 1672659,907048195
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       3,56:ab:2f:58:62:ce,       1,     141,    8634
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       1,ba:c0:db:0d:0f:5c,       2, 1672659,907048195
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       2,56:ab:2f:58:62:ce,       1,     141,    8634
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       1,ba:c0:db:0d:0f:5c,       2, 1672659,907048195
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       2,56:ab:2f:58:62:ce,       1,     141,    8634
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       2,56:ab:2f:58:62:ce,       5,     141,    8634
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,26:12:27:48:d3:37,       6,       1,      98
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,ba:c0:db:0d:0f:5c,       2, 1672659,907048195
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       6,56:ab:2f:58:62:ce,       5,       2,     196
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       1,ba:c0:db:0d:0f:5c,       4, 1672659,907048195
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       4,56:ab:2f:58:62:ce,       1,     141,    8634
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       1,ba:c0:db:0d:0f:5c,       2, 1698482,921044261
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       2,56:ab:2f:58:62:ce,       1,     141,    8634
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       1,ba:c0:db:0d:0f:5c,       2, 1698482,921044261
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       2,56:ab:2f:58:62:ce,       1,     141,    8634
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       1,ba:c0:db:0d:0f:5c,       4, 1698482,921044261
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       4,56:ab:2f:58:62:ce,       1,     141,    8634
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       1,ba:c0:db:0d:0f:5c,       3, 1698482,921044261
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       3,56:ab:2f:58:62:ce,       1,     141,    8634
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       2,56:ab:2f:58:62:ce,       5,     141,    8634
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,26:12:27:48:d3:37,       6,       1,      98
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,ba:c0:db:0d:0f:5c,       2, 1698482,921044261
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       6,56:ab:2f:58:62:ce,       5,       2,     196
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       1,ba:c0:db:0d:0f:5c,       2, 1724140,934950897
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       2,56:ab:2f:58:62:ce,       1,     141,    8634
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       1,ba:c0:db:0d:0f:5c,       3, 1724140,934950897
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       3,56:ab:2f:58:62:ce,       1,     141,    8634
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       1,ba:c0:db:0d:0f:5c,       2, 1724140,934950897
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       2,56:ab:2f:58:62:ce,       1,     141,    8634
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       2,56:ab:2f:58:62:ce,       5,     141,    8634
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,26:12:27:48:d3:37,       6,       1,      98
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,ba:c0:db:0d:0f:5c,       2, 1724140,934950897
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       6,56:ab:2f:58:62:ce,       5,       2,     196
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       1,ba:c0:db:0d:0f:5c,       4, 1724140,934950897
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       4,56:ab:2f:58:62:ce,       1,     141,    8634
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       1,ba:c0:db:0d:0f:5c,       3, 1749712,948810921
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       3,56:ab:2f:58:62:ce,       1,     141,    8634
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       2,56:ab:2f:58:62:ce,       5,     141,    8634
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,26:12:27:48:d3:37,       6,       1,      98
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,ba:c0:db:0d:0f:5c,       2, 1749712,948810921
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       6,56:ab:2f:58:62:ce,       5,       2,     196
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       1,ba:c0:db:0d:0f:5c,       2, 1749712,948810921
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       2,56:ab:2f:58:62:ce,       1,     141,    8634
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       1,ba:c0:db:0d:0f:5c,       4, 1749712,948810921
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       4,56:ab:2f:58:62:ce,       1,     141,    8634
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       1,ba:c0:db:0d:0f:5c,       2, 1749712,948810921
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       2,56:ab:2f:58:62:ce,       1,     141,    8634
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       1,ba:c0:db:0d:0f:5c,       4, 1775624,962855225
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       4,56:ab:2f:58:62:ce,       1,     141,    8634
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       1,ba:c0:db:0d:0f:5c,       2, 1775624,962855225
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       2,56:ab:2f:58:62:ce,       1,     141,    8634
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       1,ba:c0:db:0d:0f:5c,       2, 1775624,962855225
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       2,56:ab:2f:58:62:ce,       1,     141,    8634
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       1,ba:c0:db:0d:0f:5c,       3, 1775624,962855225
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       3,56:ab:2f:58:62:ce,       1,     141,    8634
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       2,56:ab:2f:58:62:ce,       5,     141,    8634
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,26:12:27:48:d3:37,       6,       1,      98
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,ba:c0:db:0d:0f:5c,       2, 1775624,962855225
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       6,56:ab:2f:58:62:ce,       5,       2,     196
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       2,56:ab:2f:58:62:ce,       5,     142,    8676
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,26:12:27:48:d3:37,       6,       1,      98
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,ba:c0:db:0d:0f:5c,       2, 1801347,976796591
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       6,56:ab:2f:58:62:ce,       5,       2,     196
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       1,ba:c0:db:0d:0f:5c,       2, 1801347,976796591
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       2,56:ab:2f:58:62:ce,       1,     142,    8676
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       1,ba:c0:db:0d:0f:5c,       2, 1801347,976796591
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       2,56:ab:2f:58:62:ce,       1,     142,    8676
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       1,ba:c0:db:0d:0f:5c,       4, 1801347,976796591
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       4,56:ab:2f:58:62:ce,       1,     142,    8676
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       1,ba:c0:db:0d:0f:5c,       3, 1801347,976796591
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       3,56:ab:2f:58:62:ce,       1,     142,    8676
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       1,ba:c0:db:0d:0f:5c,       4, 1826548,990455533
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       4,56:ab:2f:58:62:ce,       1,     142,    8676
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       1,ba:c0:db:0d:0f:5c,       2, 1826548,990455533
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       2,56:ab:2f:58:62:ce,       1,     142,    8676
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       2,56:ab:2f:58:62:ce,       5,     142,    8676
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,26:12:27:48:d3:37,       6,       1,      98
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,ba:c0:db:0d:0f:5c,       2, 1826548,990455533
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       6,56:ab:2f:58:62:ce,       5,       2,     196
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       1,ba:c0:db:0d:0f:5c,       2, 1826548,990455533
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       2,56:ab:2f:58:62:ce,       1,     142,    8676
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       1,ba:c0:db:0d:0f:5c,       3, 1826548,990455533
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       3,56:ab:2f:58:62:ce,       1,     142,    8676
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       1,ba:c0:db:0d:0f:5c,       2, 1852288,1004405638
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       2,56:ab:2f:58:62:ce,       1,     145,    8851
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       2,56:ab:2f:58:62:ce,       5,     145,    8851
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,26:12:27:48:d3:37,       6,       1,      98
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,ba:c0:db:0d:0f:5c,       2, 1852288,1004405638
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       6,56:ab:2f:58:62:ce,       5,       2,     196
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       1,ba:c0:db:0d:0f:5c,       3, 1852288,1004405638
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       3,56:ab:2f:58:62:ce,       1,     145,    8851
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       1,ba:c0:db:0d:0f:5c,       4, 1852288,1004405638
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       4,56:ab:2f:58:62:ce,       1,     145,    8851
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       1,ba:c0:db:0d:0f:5c,       2, 1852288,1004405638
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       2,56:ab:2f:58:62:ce,       1,     145,    8851
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       1,ba:c0:db:0d:0f:5c,       3, 1878151,1018423384
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       3,56:ab:2f:58:62:ce,       1,     145,    8851
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       1,ba:c0:db:0d:0f:5c,       4, 1878151,1018423384
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       4,56:ab:2f:58:62:ce,       1,     145,    8851
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       1,ba:c0:db:0d:0f:5c,       2, 1878151,1018423384
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       2,56:ab:2f:58:62:ce,       1,     145,    8851
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       2,56:ab:2f:58:62:ce,       5,     145,    8851
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,26:12:27:48:d3:37,       6,       1,      98
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,ba:c0:db:0d:0f:5c,       2, 1878151,1018423384
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       6,56:ab:2f:58:62:ce,       5,       2,     196
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       1,ba:c0:db:0d:0f:5c,       2, 1878151,1018423384
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       2,56:ab:2f:58:62:ce,       1,     145,    8851
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       1,ba:c0:db:0d:0f:5c,       2, 1903900,1032379342
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       2,56:ab:2f:58:62:ce,       1,     145,    8851
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       1,ba:c0:db:0d:0f:5c,       3, 1903900,1032379342
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       3,56:ab:2f:58:62:ce,       1,     145,    8851
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       1,ba:c0:db:0d:0f:5c,       2, 1903900,1032379342
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       2,56:ab:2f:58:62:ce,       1,     145,    8851
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       2,56:ab:2f:58:62:ce,       5,     145,    8851
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,26:12:27:48:d3:37,       6,       1,      98
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,ba:c0:db:0d:0f:5c,       2, 1903900,1032379342
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       6,56:ab:2f:58:62:ce,       5,       2,     196
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       1,ba:c0:db:0d:0f:5c,       4, 1903900,1032379342
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       4,56:ab:2f:58:62:ce,       1,     145,    8851
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       1,ba:c0:db:0d:0f:5c,       3, 1929421,1046211724
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       3,56:ab:2f:58:62:ce,       1,     145,    8851
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       1,ba:c0:db:0d:0f:5c,       4, 1929421,1046211724
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       4,56:ab:2f:58:62:ce,       1,     145,    8851
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       1,ba:c0:db:0d:0f:5c,       2, 1929421,1046211724
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       2,56:ab:2f:58:62:ce,       1,     145,    8851
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       2,56:ab:2f:58:62:ce,       5,     145,    8851
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,26:12:27:48:d3:37,       6,       1,      98
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,ba:c0:db:0d:0f:5c,       2, 1929421,1046211724
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       6,56:ab:2f:58:62:ce,       5,       2,     196
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       1,ba:c0:db:0d:0f:5c,       2, 1929421,1046211724
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       2,56:ab:2f:58:62:ce,       1,     145,    8851
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       2,56:ab:2f:58:62:ce,       5,     145,    8851
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,26:12:27:48:d3:37,       6,       1,      98
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,ba:c0:db:0d:0f:5c,       2, 1954809,1059972020
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       6,56:ab:2f:58:62:ce,       5,       2,     196
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       1,ba:c0:db:0d:0f:5c,       2, 1954809,1059972020
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       2,56:ab:2f:58:62:ce,       1,     145,    8851
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       1,ba:c0:db:0d:0f:5c,       4, 1954809,1059972020
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       4,56:ab:2f:58:62:ce,       1,     145,    8851
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       1,ba:c0:db:0d:0f:5c,       2, 1954809,1059972020
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       2,56:ab:2f:58:62:ce,       1,     145,    8851
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       1,ba:c0:db:0d:0f:5c,       3, 1954809,1059972020
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       3,56:ab:2f:58:62:ce,       1,     145,    8851
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       1,ba:c0:db:0d:0f:5c,       2, 1980428,1073857018
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       2,56:ab:2f:58:62:ce,       1,     146,    8893
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       1,ba:c0:db:0d:0f:5c,       2, 1980428,1073857018
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       2,56:ab:2f:58:62:ce,       1,     146,    8893
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       1,ba:c0:db:0d:0f:5c,       4, 1980428,1073857018
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       4,56:ab:2f:58:62:ce,       1,     146,    8893
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       2,56:ab:2f:58:62:ce,       5,     146,    8893
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,26:12:27:48:d3:37,       6,       1,      98
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,ba:c0:db:0d:0f:5c,       2, 1980428,1073857018
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       6,56:ab:2f:58:62:ce,       5,       2,     196
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       1,ba:c0:db:0d:0f:5c,       3, 1980428,1073857018
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       3,56:ab:2f:58:62:ce,       1,     146,    8893
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       1,ba:c0:db:0d:0f:5c,       4, 2006079,1087759860
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       4,56:ab:2f:58:62:ce,       1,     146,    8893
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       1,ba:c0:db:0d:0f:5c,       2, 2006079,1087759860
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       2,56:ab:2f:58:62:ce,       1,     146,    8893
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       1,ba:c0:db:0d:0f:5c,       2, 2006079,1087759860
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       2,56:ab:2f:58:62:ce,       1,     146,    8893
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       2,56:ab:2f:58:62:ce,       5,     146,    8893
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,26:12:27:48:d3:37,       6,       1,      98
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,ba:c0:db:0d:0f:5c,       2, 2006079,1087759860
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       6,56:ab:2f:58:62:ce,       5,       2,     196
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       1,ba:c0:db:0d:0f:5c,       3, 2006079,1087759860
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       3,56:ab:2f:58:62:ce,       1,     146,    8893
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       1,ba:c0:db:0d:0f:5c,       2, 2031729,1101662160
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       2,56:ab:2f:58:62:ce,       1,     146,    8893
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       1,ba:c0:db:0d:0f:5c,       3, 2031729,1101662160
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       3,56:ab:2f:58:62:ce,       1,     146,    8893
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       2,56:ab:2f:58:62:ce,       5,     146,    8893
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,26:12:27:48:d3:37,       6,       1,      98
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,ba:c0:db:0d:0f:5c,       2, 2031729,1101662160
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       6,56:ab:2f:58:62:ce,       5,       2,     196
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       1,ba:c0:db:0d:0f:5c,       4, 2031729,1101662160
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       4,56:ab:2f:58:62:ce,       1,     146,    8893
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       1,ba:c0:db:0d:0f:5c,       2, 2031729,1101662160
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       2,56:ab:2f:58:62:ce,       1,     146,    8893
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       1,ba:c0:db:0d:0f:5c,       2, 2057534,1115648470
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       2,56:ab:2f:58:62:ce,       1,     146,    8893
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       1,ba:c0:db:0d:0f:5c,       4, 2057534,1115648470
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       4,56:ab:2f:58:62:ce,       1,     146,    8893
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       1,ba:c0:db:0d:0f:5c,       3, 2057534,1115648470
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       3,56:ab:2f:58:62:ce,       1,     146,    8893
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       1,ba:c0:db:0d:0f:5c,       2, 2057534,1115648470
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       2,56:ab:2f:58:62:ce,       1,     146,    8893
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       2,56:ab:2f:58:62:ce,       5,     146,    8893
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,26:12:27:48:d3:37,       6,       1,      98
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,ba:c0:db:0d:0f:5c,       2, 2057534,1115648470
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       6,56:ab:2f:58:62:ce,       5,       2,     196
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       2,56:ab:2f:58:62:ce,       5,     146,    8893
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,26:12:27:48:d3:37,       6,       1,      98
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,ba:c0:db:0d:0f:5c,       2, 2083244,1129583290
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       6,56:ab:2f:58:62:ce,       5,       2,     196
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       1,ba:c0:db:0d:0f:5c,       3, 2083244,1129583290
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       3,56:ab:2f:58:62:ce,       1,     146,    8893
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       1,ba:c0:db:0d:0f:5c,       2, 2083244,1129583290
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       2,56:ab:2f:58:62:ce,       1,     146,    8893
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       1,ba:c0:db:0d:0f:5c,       4, 2083244,1129583290
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       4,56:ab:2f:58:62:ce,       1,     146,    8893
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       1,ba:c0:db:0d:0f:5c,       2, 2083244,1129583290
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       2,56:ab:2f:58:62:ce,       1,     146,    8893
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       1,ba:c0:db:0d:0f:5c,       4, 2108662,1143358371
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       4,56:ab:2f:58:62:ce,       1,     150,    9110
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       1,ba:c0:db:0d:0f:5c,       2, 2108662,1143358371
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       2,56:ab:2f:58:62:ce,       1,     150,    9110
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       1,ba:c0:db:0d:0f:5c,       3, 2108662,1143358371
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       3,56:ab:2f:58:62:ce,       1,     150,    9110
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       2,56:ab:2f:58:62:ce,       5,     150,    9110
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,26:12:27:48:d3:37,       6,       1,      98
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,ba:c0:db:0d:0f:5c,       2, 2108662,1143358371
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       6,56:ab:2f:58:62:ce,       5,       2,     196
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       1,ba:c0:db:0d:0f:5c,       2, 2108662,1143358371
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       2,56:ab:2f:58:62:ce,       1,     150,    9110
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       1,ba:c0:db:0d:0f:5c,       2, 2134012,1157098071
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       2,56:ab:2f:58:62:ce,       1,     150,    9110
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       1,ba:c0:db:0d:0f:5c,       3, 2134012,1157098071
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       3,56:ab:2f:58:62:ce,       1,     150,    9110
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       1,ba:c0:db:0d:0f:5c,       4, 2134012,1157098071
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       4,56:ab:2f:58:62:ce,       1,     150,    9110
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       2,56:ab:2f:58:62:ce,       5,     150,    9110
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,26:12:27:48:d3:37,       6,       1,      98
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,ba:c0:db:0d:0f:5c,       2, 2134012,1157098071
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       6,56:ab:2f:58:62:ce,       5,       2,     196
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       1,ba:c0:db:0d:0f:5c,       2, 2134012,1157098071
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       2,56:ab:2f:58:62:ce,       1,     150,    9110
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       2,56:ab:2f:58:62:ce,       5,     150,    9110
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,26:12:27:48:d3:37,       6,       1,      98
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,ba:c0:db:0d:0f:5c,       2, 2159746,1171045899
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       6,56:ab:2f:58:62:ce,       5,       2,     196
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       1,ba:c0:db:0d:0f:5c,       2, 2159746,1171045899
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       2,56:ab:2f:58:62:ce,       1,     150,    9110
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       1,ba:c0:db:0d:0f:5c,       4, 2159746,1171045899
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       4,56:ab:2f:58:62:ce,       1,     150,    9110
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       1,ba:c0:db:0d:0f:5c,       2, 2159746,1171045899
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       2,56:ab:2f:58:62:ce,       1,     150,    9110
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       1,ba:c0:db:0d:0f:5c,       3, 2159746,1171045899
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       3,56:ab:2f:58:62:ce,       1,     150,    9110
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       1,ba:c0:db:0d:0f:5c,       3, 2185381,1184940069
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       3,56:ab:2f:58:62:ce,       1,     150,    9110
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       1,ba:c0:db:0d:0f:5c,       4, 2185381,1184940069
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       4,56:ab:2f:58:62:ce,       1,     150,    9110
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       1,ba:c0:db:0d:0f:5c,       2, 2185381,1184940069
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       2,56:ab:2f:58:62:ce,       1,     150,    9110
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       2,56:ab:2f:58:62:ce,       5,     150,    9110
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,26:12:27:48:d3:37,       6,       1,      98
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,ba:c0:db:0d:0f:5c,       2, 2185381,1184940069
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       6,56:ab:2f:58:62:ce,       5,       2,     196
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       1,ba:c0:db:0d:0f:5c,       2, 2185381,1184940069
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       2,56:ab:2f:58:62:ce,       1,     150,    9110
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       1,ba:c0:db:0d:0f:5c,       2, 2210668,1198645623
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       2,56:ab:2f:58:62:ce,       1,     150,    9110
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       2,56:ab:2f:58:62:ce,       5,     150,    9110
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,26:12:27:48:d3:37,       6,       1,      98
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,ba:c0:db:0d:0f:5c,       2, 2210668,1198645623
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       6,56:ab:2f:58:62:ce,       5,       2,     196
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       1,ba:c0:db:0d:0f:5c,       2, 2210668,1198645623
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       2,56:ab:2f:58:62:ce,       1,     150,    9110
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       1,ba:c0:db:0d:0f:5c,       3, 2210668,1198645623
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       3,56:ab:2f:58:62:ce,       1,     150,    9110
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       1,ba:c0:db:0d:0f:5c,       4, 2210668,1198645623
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       4,56:ab:2f:58:62:ce,       1,     150,    9110
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       1,ba:c0:db:0d:0f:5c,       4, 2236340,1212559347
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       4,56:ab:2f:58:62:ce,       1,     151,    9152
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       1,ba:c0:db:0d:0f:5c,       3, 2236340,1212559347
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       3,56:ab:2f:58:62:ce,       1,     151,    9152
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       1,ba:c0:db:0d:0f:5c,       2, 2236340,1212559347
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       2,56:ab:2f:58:62:ce,       1,     151,    9152
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       2,56:ab:2f:58:62:ce,       5,     151,    9152
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,26:12:27:48:d3:37,       6,       1,      98
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,ba:c0:db:0d:0f:5c,       2, 2236340,1212559347
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       6,56:ab:2f:58:62:ce,       5,       2,     196
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       1,ba:c0:db:0d:0f:5c,       2, 2236340,1212559347
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       2,56:ab:2f:58:62:ce,       1,     151,    9152
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       1,ba:c0:db:0d:0f:5c,       2, 2262021,1226478449
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       2,56:ab:2f:58:62:ce,       1,     151,    9152
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       1,ba:c0:db:0d:0f:5c,       4, 2262021,1226478449
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       4,56:ab:2f:58:62:ce,       1,     151,    9152
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       1,ba:c0:db:0d:0f:5c,       2, 2262021,1226478449
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       2,56:ab:2f:58:62:ce,       1,     151,    9152
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       1,ba:c0:db:0d:0f:5c,       3, 2262021,1226478449
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       3,56:ab:2f:58:62:ce,       1,     151,    9152
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       2,56:ab:2f:58:62:ce,       5,     151,    9152
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,26:12:27:48:d3:37,       6,       1,      98
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,ba:c0:db:0d:0f:5c,       2, 2262021,1226478449
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       6,56:ab:2f:58:62:ce,       5,       2,     196
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       1,ba:c0:db:0d:0f:5c,       3, 2287553,1240316793
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       3,56:ab:2f:58:62:ce,       1,     151,    9152
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       1,ba:c0:db:0d:0f:5c,       2, 2287553,1240316793
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       2,56:ab:2f:58:62:ce,       1,     151,    9152
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       1,ba:c0:db:0d:0f:5c,       4, 2287553,1240316793
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       4,56:ab:2f:58:62:ce,       1,     151,    9152
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       2,56:ab:2f:58:62:ce,       5,     151,    9152
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,26:12:27:48:d3:37,       6,       1,      98
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,ba:c0:db:0d:0f:5c,       2, 2287553,1240316793
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       6,56:ab:2f:58:62:ce,       5,       2,     196
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       1,ba:c0:db:0d:0f:5c,       2, 2287553,1240316793
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       2,56:ab:2f:58:62:ce,       1,     151,    9152
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       1,ba:c0:db:0d:0f:5c,       4, 2312707,1253950261
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       4,56:ab:2f:58:62:ce,       1,     151,    9152
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       1,ba:c0:db:0d:0f:5c,       2, 2312707,1253950261
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       2,56:ab:2f:58:62:ce,       1,     151,    9152
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       2,56:ab:2f:58:62:ce,       5,     151,    9152
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,26:12:27:48:d3:37,       6,       1,      98
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,ba:c0:db:0d:0f:5c,       2, 2312707,1253950261
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       6,56:ab:2f:58:62:ce,       5,       2,     196
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       1,ba:c0:db:0d:0f:5c,       3, 2312707,1253950261
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       3,56:ab:2f:58:62:ce,       1,     151,    9152
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       1,ba:c0:db:0d:0f:5c,       2, 2312707,1253950261
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       2,56:ab:2f:58:62:ce,       1,     151,    9152
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       2,56:ab:2f:58:62:ce,       5,     151,    9152
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,26:12:27:48:d3:37,       6,       1,      98
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,ba:c0:db:0d:0f:5c,       2, 2338596,1267982099
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       6,56:ab:2f:58:62:ce,       5,       2,     196
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       1,ba:c0:db:0d:0f:5c,       2, 2338596,1267982099
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       2,56:ab:2f:58:62:ce,       1,     151,    9152
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       1,ba:c0:db:0d:0f:5c,       4, 2338596,1267982099
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       4,56:ab:2f:58:62:ce,       1,     151,    9152
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       1,ba:c0:db:0d:0f:5c,       3, 2338596,1267982099
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       3,56:ab:2f:58:62:ce,       1,     151,    9152
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       1,ba:c0:db:0d:0f:5c,       2, 2338596,1267982099
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       2,56:ab:2f:58:62:ce,       1,     151,    9152
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       1,ba:c0:db:0d:0f:5c,       4, 2343916,1270861272
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000006,       4,56:ab:2f:58:62:ce,       1,     163,    9961
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       1,ba:c0:db:0d:0f:5c,       2, 2343916,1270861272
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001a,       2,56:ab:2f:58:62:ce,       1,     163,    9961
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       1,ba:c0:db:0d:0f:5c,       2, 2343916,1270861272
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000000a,       2,56:ab:2f:58:62:ce,       1,     163,    9961
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       2,56:ab:2f:58:62:ce,       5,     163,    9961
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,26:12:27:48:d3:37,       6,       1,      98
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       5,ba:c0:db:0d:0f:5c,       2, 2343916,1270861272
+datapath,in-port,eth-dst,out-port,packets,bytes
+0000000000000003,       6,56:ab:2f:58:62:ce,       5,       2,     196
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       1,ba:c0:db:0d:0f:5c,       3, 2343916,1270861272
+datapath,in-port,eth-dst,out-port,packets,bytes
+000000000000001b,       3,56:ab:2f:58:62:ce,       1,     163,    9961
