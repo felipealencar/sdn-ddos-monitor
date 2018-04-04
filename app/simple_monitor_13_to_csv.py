@@ -120,7 +120,7 @@ class SimpleMonitor13(simple_switch_stp_13.SimpleSwitch13):
                     writer.writeheader()
                 datapath_id = "%016x" % ev.msg.datapath.id
                 port = "%8x" % stat.port_no
-                rx_pkts = "%8d" % stat.rx_pkts
+                rx_pkts = "%8d" % stat.rx_packets
                 rx_bytes = "%8d" % stat.rx_bytes
                 rx_error = "%8d" % stat.rx_errors
                 tx_pkts = "%8d" % stat.tx_packets
