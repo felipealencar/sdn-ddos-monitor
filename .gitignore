@@ -1,0 +1,14 @@
+# Compiled source #
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+*.pyo
+*.pyc
+
+# Logs #
+recv_log_file
+send_log_file
+
