@@ -1,3 +1,4 @@
+sep=,
 datapath,in-port,eth-dst,out-port,packets,bytes
 000000000000001b,1,de:f5:ad:55:e8:54,3,8,825
 000000000000001b,3,0e:9b:90:6e:a3:53,1,7,493

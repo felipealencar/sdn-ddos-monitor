@@ -61,6 +61,8 @@ class SimpleMonitor13(simple_switch_stp_13.SimpleSwitch13):
         req = parser.OFPFlowStatsRequest(datapath)
         datapath.send_msg(req)
 
+        req = parser.OFPMeterStatsRequest
+
         req = parser.OFPPortStatsRequest(datapath, 0, ofproto.OFPP_ANY)
         datapath.send_msg(req)
 
@@ -76,16 +78,21 @@ class SimpleMonitor13(simple_switch_stp_13.SimpleSwitch13):
                          '-------- ----------------- '
                          '-------- -------- --------')
 
+        #adicionar intervalo de chegada de pacotes em cada fluxo
+
+        #verificar se no pacote/fluxo é do ataque ou tráfego normal
         for stat in sorted([flow for flow in body if flow.priority == 1],
                            key=lambda flow: (flow.match['in_port'],
                                              flow.match['eth_dst'])):
-            self.logger.info('%016x %8x %17s %8x %8d %8d',
+            self.logger.info('%016x %8x %17s %8x %8d %8d %d %d %d 0x%04x',
                              ev.msg.datapath.id,
                              stat.match['in_port'], stat.match['eth_dst'],
                              stat.instructions[0].actions[0].port,
-                             stat.packet_count, stat.byte_count)
+                             stat.packet_count, stat.byte_count, stat.duration_sec,
+                             stat.duration_nsec, ev.timestamp, stat.flags)
             with open('../dataset/monitor-ddos-flow-stats.csv', 'ab') as csvfile:
-                fieldnames = ['datapath', 'in-port', 'eth-dst', 'out-port', 'packets', 'bytes']
+                fieldnames = ['datapath', 'in-port', 'eth-dst', 'out-port',
+                              'packets', 'bytes', 'duration-sec', 'duration-nsec', 'timestamp', 'flags']
                 writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
                 if not self.file1_exists:
                     writer.writeheader()
@@ -95,8 +102,15 @@ class SimpleMonitor13(simple_switch_stp_13.SimpleSwitch13):
                 outport = "%8x" % stat.instructions[0].actions[0].port
                 packets = "%8d" % stat.packet_count
                 bytes = "%8d" % stat.byte_count
+                duration_sec = "%d" % stat.duration_sec
+                duration_nsec = "%d" % stat.duration_nsec
+                timestamp = "%d" % ev.timestamp
+                flags = "0x%04x" % stat.flags
+
                 writer.writerow({'datapath': datapath_id, 'in-port': inport, 'eth-dst': eth_dst,
-                                 'out-port': outport, 'packets': packets, 'bytes': bytes})
+                                 'out-port': outport, 'packets': packets, 'bytes': bytes,
+                                 'duration-sec': duration_sec, 'duration-nsec': duration_nsec, 'timestamp': timestamp,
+                                 'flags': flags})
 
     @set_ev_cls(ofp_event.EventOFPPortStatsReply, MAIN_DISPATCHER)
     def _port_stats_reply_handler(self, ev):
