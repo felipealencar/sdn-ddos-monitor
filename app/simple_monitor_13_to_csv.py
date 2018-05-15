@@ -78,9 +78,6 @@ class SimpleMonitor13(simple_switch_stp_13.SimpleSwitch13):
                          '-------- ----------------- '
                          '-------- -------- --------')
 
-        #adicionar intervalo de chegada de pacotes em cada fluxo
-
-        #verificar se no pacote/fluxo é do ataque ou tráfego normal
         for stat in sorted([flow for flow in body if flow.priority == 1],
                            key=lambda flow: (flow.match['in_port'],
                                              flow.match['eth_dst'])):
