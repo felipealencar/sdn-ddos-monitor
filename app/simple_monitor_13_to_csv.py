@@ -120,12 +120,14 @@ class SimpleMonitor13(simple_switch_stp_13.SimpleSwitch13):
                          '-------- -------- -------- '
                          '-------- -------- --------')
         for stat in sorted(body, key=attrgetter('port_no')):
-            self.logger.info('%016x %8x %8d %8d %8d %8d %8d %8d',
+            self.logger.info('%016x %8x %8d %8d %8d %8d %8d %8d %d %d %d',
                              ev.msg.datapath.id, stat.port_no,
                              stat.rx_packets, stat.rx_bytes, stat.rx_errors,
-                             stat.tx_packets, stat.tx_bytes, stat.tx_errors)
+                             stat.tx_packets, stat.tx_bytes, stat.tx_errors,
+                             stat.duration-sec, stat.duration-nsec, ev.timestamp)
             with open('../dataset/monitor-ddos-port-stats.csv', 'ab') as csvfile:
-                fieldnames = ['datapath', 'port', 'rx-pkts', 'rx-bytes', 'rx-error', 'tx-pkts', 'tx-bytes', 'tx-error']
+                fieldnames = ['datapath', 'port', 'rx-pkts', 'rx-bytes', 'rx-error', 'tx-pkts', 'tx-bytes', 'tx-error',
+                              'duration-sec', 'duration-nsec', 'timestamp']
                 writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
                 if not self.file2_exists:
                     writer.writeheader()
@@ -137,6 +139,10 @@ class SimpleMonitor13(simple_switch_stp_13.SimpleSwitch13):
                 tx_pkts = "%8d" % stat.tx_packets
                 tx_bytes = "%8d" % stat.tx_bytes
                 tx_error = "%8d" % stat.tx_errors
+                duration_sec = "%d" % stat.duration_sec
+                duration_nsec = "%d" % stat.duration_nsec
+                timestamp = "%d" % ev.timestamp
                 writer.writerow({'datapath': datapath_id, 'port': port, 'rx-pkts': rx_pkts,
                                  'rx-bytes': rx_bytes, 'rx-error': rx_error, 'tx-pkts': tx_pkts,
-                                 'tx-bytes': tx_bytes, 'tx-error': tx_error})
+                                 'tx-bytes': tx_bytes, 'tx-error': tx_error,
+                                 'duration-sec': duration_sec, 'duration-nsec': duration_nsec, 'timestamp': timestamp})
