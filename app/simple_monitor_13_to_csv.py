@@ -81,15 +81,15 @@ class SimpleMonitor13(simple_switch_stp_13.SimpleSwitch13):
         for stat in sorted([flow for flow in body if flow.priority == 1],
                            key=lambda flow: (flow.match['in_port'],
                                              flow.match['eth_dst'])):
-            self.logger.info('%016x %8x %17s %8x %8d %8d %d %d %d 0x%04x',
+            self.logger.info('%016x %8x %17s %8x %8d %8d %d %d 0x%04x',
                              ev.msg.datapath.id,
                              stat.match['in_port'], stat.match['eth_dst'],
                              stat.instructions[0].actions[0].port,
                              stat.packet_count, stat.byte_count, stat.duration_sec,
-                             stat.duration_nsec, ev.timestamp, stat.flags)
+                             stat.duration_nsec, stat.flags)
             with open('../dataset/monitor-ddos-flow-stats.csv', 'ab') as csvfile:
                 fieldnames = ['datapath', 'in-port', 'eth-dst', 'out-port',
-                              'packets', 'bytes', 'duration-sec', 'duration-nsec', 'timestamp', 'flags']
+                              'packets', 'bytes', 'duration-sec', 'duration-nsec', 'flags']
                 writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
                 if not self.file1_exists:
                     writer.writeheader()
@@ -101,12 +101,11 @@ class SimpleMonitor13(simple_switch_stp_13.SimpleSwitch13):
                 bytes = "%8d" % stat.byte_count
                 duration_sec = "%d" % stat.duration_sec
                 duration_nsec = "%d" % stat.duration_nsec
-                timestamp = "%d" % ev.timestamp
                 flags = "0x%04x" % stat.flags
 
                 writer.writerow({'datapath': datapath_id, 'in-port': inport, 'eth-dst': eth_dst,
                                  'out-port': outport, 'packets': packets, 'bytes': bytes,
-                                 'duration-sec': duration_sec, 'duration-nsec': duration_nsec, 'timestamp': timestamp,
+                                 'duration-sec': duration_sec, 'duration-nsec': duration_nsec,
                                  'flags': flags})
 
     @set_ev_cls(ofp_event.EventOFPPortStatsReply, MAIN_DISPATCHER)
@@ -120,7 +119,7 @@ class SimpleMonitor13(simple_switch_stp_13.SimpleSwitch13):
                          '-------- -------- -------- '
                          '-------- -------- --------')
         for stat in sorted(body, key=attrgetter('port_no')):
-            self.logger.info('%016x %8x %8d %8d %8d %8d %8d %8d %d %d %d',
+            self.logger.info('%016x %8x %8d %8d %8d %8d %8d %8d %d %d',
                              ev.msg.datapath.id, stat.port_no,
                              stat.rx_packets, stat.rx_bytes, stat.rx_errors,
                              stat.tx_packets, stat.tx_bytes, stat.tx_errors,
