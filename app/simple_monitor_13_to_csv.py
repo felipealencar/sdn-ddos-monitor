@@ -124,7 +124,7 @@ class SimpleMonitor13(simple_switch_stp_13.SimpleSwitch13):
                              ev.msg.datapath.id, stat.port_no,
                              stat.rx_packets, stat.rx_bytes, stat.rx_errors,
                              stat.tx_packets, stat.tx_bytes, stat.tx_errors,
-                             stat.duration-sec, stat.duration-nsec, ev.timestamp)
+                             stat.duration_sec, stat.duration_nsec, ev.timestamp)
             with open('../dataset/monitor-ddos-port-stats.csv', 'ab') as csvfile:
                 fieldnames = ['datapath', 'port', 'rx-pkts', 'rx-bytes', 'rx-error', 'tx-pkts', 'tx-bytes', 'tx-error',
                               'duration-sec', 'duration-nsec', 'timestamp']
