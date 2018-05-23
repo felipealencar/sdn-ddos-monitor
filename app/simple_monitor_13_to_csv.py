@@ -58,7 +58,7 @@ class SimpleMonitor13(simple_switch_stp_13.SimpleSwitch13):
         ofproto = datapath.ofproto
         parser = datapath.ofproto_parser
 
-        req = parser.OFPFlowStatsRequest(datapath)
+        req = parser.OFPFlowStatsRequest(datapath, 0, ofproto.OFPP_ANY)
         datapath.send_msg(req)
 
         req = parser.OFPMeterStatsRequest

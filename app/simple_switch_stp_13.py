@@ -23,7 +23,7 @@ from ryu.lib import stplib
 from ryu.lib.packet import packet
 from ryu.lib.packet import ethernet
 from ryu.lib.packet import ipv4
-import simple_switch_13
+from ryu.app import simple_switch_13
 
 
 class SimpleSwitch13(simple_switch_13.SimpleSwitch13):
