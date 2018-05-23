@@ -80,10 +80,11 @@ class SimpleMonitor13(simple_switch_stp_13.SimpleSwitch13):
 
         for stat in sorted([flow for flow in body if flow.priority == 1],
                            key=lambda flow: (flow.match['in_port'],
-                                             flow.match['eth_dst'])):
+                                             flow.match['eth_dst'],
+                                             flow.match['eth_src'])):
             self.logger.info('%016x %8x %17s %17s %8x %8d %8d %d %d 0x%04x',
                              ev.msg.datapath.id,
-                             stat.match['in_port'], stat.match['eth_dst'],
+                             stat.match['in_port'], stat.match['eth_src'], stat.match['eth_dst'],
                              stat.instructions[0].actions[0].port,
                              stat.packet_count, stat.byte_count, stat.duration_sec,
                              stat.duration_nsec, stat.flags)
