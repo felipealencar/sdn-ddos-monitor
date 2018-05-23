@@ -1,3 +1,4 @@
+sep=,
 datapath,in-port,eth-dst,out-port,packets,bytes,duration-sec,duration-nsec,flags
 000000000000000a,       1,1a:e6:06:d3:9e:cd,       2,       2,     133,0,362000000,0x0000
 000000000000000a,       2,a6:5f:80:5a:fc:99,       1,       1,      74,0,463000000,0x0000

@@ -1,3 +1,4 @@
+sep=,
 datapath,port,rx-pkts,rx-bytes,rx-error,tx-pkts,tx-bytes,tx-error,duration-sec,duration-nsec
 0000000000000001,       1,      49,   15630,       0,       4,     240,       0,840,302000000
 0000000000000001,       2,      53,   16434,       0,       5,     300,       0,840,193000000
