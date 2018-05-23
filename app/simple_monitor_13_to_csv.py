@@ -71,22 +71,23 @@ class SimpleMonitor13(simple_switch_stp_13.SimpleSwitch13):
         
         body = ev.msg.body
 
-        self.logger.info('datapath         '
-                         'in-port  eth-dst           '
-                         'out-port packets  bytes')
-        self.logger.info('---------------- '
-                         '-------- ----------------- '
-                         '-------- -------- --------')
-        self.logger.info(body)
+        #self.logger.info('datapath         '
+        #                 'in-port  eth-dst           '
+        #                 'out-port packets  bytes')
+        #self.logger.info('---------------- '
+        #                 '-------- ----------------- '
+        #                 '-------- -------- --------')
+        if ev.msg.datapath.id == "0000000000000002":
+            self.logger.info(body)
         for stat in sorted([flow for flow in body if flow.priority == 1],
                            key=lambda flow: (flow.match['in_port'],
                                              flow.match['eth_dst'])):
-            self.logger.info('%016x %8x %17s %8x %8d %8d %d %d 0x%04x',
-                             ev.msg.datapath.id,
-                             stat.match['in_port'], stat.match['eth_dst'],
-                             stat.instructions[0].actions[0].port,
-                             stat.packet_count, stat.byte_count, stat.duration_sec,
-                             stat.duration_nsec, stat.flags)
+            #self.logger.info('%016x %8x %17s %8x %8d %8d %d %d 0x%04x',
+            #                 ev.msg.datapath.id,
+            #                 stat.match['in_port'], stat.match['eth_dst'],
+            #                 stat.instructions[0].actions[0].port,
+            #                 stat.packet_count, stat.byte_count, stat.duration_sec,
+            #                 stat.duration_nsec, stat.flags)
             with open('../dataset/monitor-ddos-flow-stats.csv', 'ab') as csvfile:
                 fieldnames = ['datapath', 'in-port', 'eth-dst', 'out-port',
                               'packets', 'bytes', 'duration-sec', 'duration-nsec', 'flags']
@@ -112,18 +113,18 @@ class SimpleMonitor13(simple_switch_stp_13.SimpleSwitch13):
     def _port_stats_reply_handler(self, ev):
         body = ev.msg.body
 
-        self.logger.info('datapath         port     '
-                         'rx-pkts  rx-bytes rx-error '
-                         'tx-pkts  tx-bytes tx-error')
-        self.logger.info('---------------- -------- '
-                         '-------- -------- -------- '
-                         '-------- -------- --------')
+        #self.logger.info('datapath         port     '
+        #                 'rx-pkts  rx-bytes rx-error '
+        #                 'tx-pkts  tx-bytes tx-error')
+        #self.logger.info('---------------- -------- '
+        #                 '-------- -------- -------- '
+        #                 '-------- -------- --------')
         for stat in sorted(body, key=attrgetter('port_no')):
-            self.logger.info('%016x %8x %8d %8d %8d %8d %8d %8d %d %d',
-                             ev.msg.datapath.id, stat.port_no,
-                             stat.rx_packets, stat.rx_bytes, stat.rx_errors,
-                             stat.tx_packets, stat.tx_bytes, stat.tx_errors,
-                             stat.duration_sec, stat.duration_nsec)
+            #self.logger.info('%016x %8x %8d %8d %8d %8d %8d %8d %d %d',
+            #                 ev.msg.datapath.id, stat.port_no,
+            #                 stat.rx_packets, stat.rx_bytes, stat.rx_errors,
+            #                 stat.tx_packets, stat.tx_bytes, stat.tx_errors,
+            #                 stat.duration_sec, stat.duration_nsec)
             with open('../dataset/monitor-ddos-port-stats.csv', 'ab') as csvfile:
                 fieldnames = ['datapath', 'port', 'rx-pkts', 'rx-bytes', 'rx-error', 'tx-pkts', 'tx-bytes', 'tx-error',
                               'duration-sec', 'duration-nsec']
