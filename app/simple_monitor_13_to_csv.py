@@ -72,31 +72,29 @@ class SimpleMonitor13(simple_switch_stp_13.SimpleSwitch13):
         body = ev.msg.body
 
         self.logger.info('datapath         '
-                         'in-port  eth-dst           '
+                         'in-port  eth-src  eth-dst           '
                          'out-port packets  bytes')
         self.logger.info('---------------- '
                          '-------- ----------------- '
                          '-------- -------- --------')
 
         for stat in sorted([flow for flow in body if flow.priority == 1],
-                           key=lambda flow: (flow.match['in_port'],
-                                             flow.match['eth_dst'],
-                                             flow.match['eth_src'])):
-            self.logger.info('%016x %8x %17s %17s %8x %8d %8d %d %d 0x%04x',
+                           key=lambda flow: (flow.match['in_port'], flow.match['eth_src'],
+                                             flow.match['eth_dst'])):
+            self.logger.info('%016x %8x %17s %8x %8d %8d %d %d 0x%04x',
                              ev.msg.datapath.id,
                              stat.match['in_port'], stat.match['eth_src'], stat.match['eth_dst'],
                              stat.instructions[0].actions[0].port,
                              stat.packet_count, stat.byte_count, stat.duration_sec,
                              stat.duration_nsec, stat.flags)
             with open('../dataset/monitor-ddos-flow-stats.csv', 'ab') as csvfile:
-                fieldnames = ['datapath', 'in-port', 'eth-src', 'eth-dst', 'out-port',
+                fieldnames = ['datapath', 'in-port', 'eth-dst', 'out-port',
                               'packets', 'bytes', 'duration-sec', 'duration-nsec', 'flags']
                 writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
                 if csvfile.tell() == 0:
                     writer.writeheader()
                 datapath_id = "%016x" % ev.msg.datapath.id
                 inport = "%8x" % stat.match['in_port']
-                eth_src = "%17s" % stat.match['eth_src']
                 eth_dst = "%17s" % stat.match['eth_dst']
                 outport = "%8x" % stat.instructions[0].actions[0].port
                 packets = "%8d" % stat.packet_count
@@ -105,7 +103,7 @@ class SimpleMonitor13(simple_switch_stp_13.SimpleSwitch13):
                 duration_nsec = "%d" % stat.duration_nsec
                 flags = "0x%04x" % stat.flags
 
-                writer.writerow({'datapath': datapath_id, 'in-port': inport, 'eth-src': eth_src, 'eth-dst': eth_dst,
+                writer.writerow({'datapath': datapath_id, 'in-port': inport, 'eth-dst': eth_dst,
                                  'out-port': outport, 'packets': packets, 'bytes': bytes,
                                  'duration-sec': duration_sec, 'duration-nsec': duration_nsec,
                                  'flags': flags})
