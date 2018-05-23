@@ -22,6 +22,7 @@ from ryu.lib import dpid as dpid_lib
 from ryu.lib import stplib
 from ryu.lib.packet import packet
 from ryu.lib.packet import ethernet
+from ryu.lib.packet import ipv4
 from ryu.app import simple_switch_13
 
 
@@ -83,7 +84,11 @@ class SimpleSwitch13(simple_switch_13.SimpleSwitch13):
         else:
             out_port = ofproto.OFPP_FLOOD
 
-        actions = [parser.OFPActionOutput(out_port)]
+        ip = pkt.get_protocols(ipv4.ipv4)
+        if ip and ip.src != '10.0.0.1':
+            actions = [parser.OFPActionSetField(vlan_vid=1), parser.OFPActionOutput(out_port)]
+        else:
+            actions = [parser.OFPActionOutput(out_port)]
 
         # install a flow to avoid packet_in next time
         if out_port != ofproto.OFPP_FLOOD:
