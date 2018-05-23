@@ -91,7 +91,7 @@ class SimpleMonitor13(simple_switch_stp_13.SimpleSwitch13):
                 fieldnames = ['datapath', 'in-port', 'eth-dst', 'out-port',
                               'packets', 'bytes', 'duration-sec', 'duration-nsec', 'flags']
                 writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
-                if not self.file1_exists:
+                if csvfile.tell() == 0:
                     writer.writeheader()
                 datapath_id = "%016x" % ev.msg.datapath.id
                 inport = "%8x" % stat.match['in_port']
@@ -128,7 +128,7 @@ class SimpleMonitor13(simple_switch_stp_13.SimpleSwitch13):
                 fieldnames = ['datapath', 'port', 'rx-pkts', 'rx-bytes', 'rx-error', 'tx-pkts', 'tx-bytes', 'tx-error',
                               'duration-sec', 'duration-nsec']
                 writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
-                if not self.file2_exists:
+                if csvfile.tell() == 0:
                     writer.writeheader()
                 datapath_id = "%016x" % ev.msg.datapath.id
                 port = "%8x" % stat.port_no
