@@ -25,8 +25,8 @@ def myNetwork():
 
     info('*** Add switches\n')
     s1 = net.addSwitch('s1', cls=OVSKernelSwitch, protocols='OpenFlow13')
-    s2 = net.addSwitch('s2', cls=OVSKernelSwitch, protocols='OpenFlow13')
-    s3 = net.addSwitch('s3', cls=OVSKernelSwitch, protocols='OpenFlow13')
+    s2 = net.addSwitch('s2', dpid='0000000000000002', cls=OVSKernelSwitch, protocols='OpenFlow13')
+    s3 = net.addSwitch('s3', dpid='0000000000000003', cls=OVSKernelSwitch, protocols='OpenFlow13')
     s4 = net.addSwitch('s4', cls=OVSKernelSwitch, protocols='OpenFlow13')
     s5 = net.addSwitch('s5', cls=OVSKernelSwitch, protocols='OpenFlow13')
     s6 = net.addSwitch('s6', cls=OVSKernelSwitch, protocols='OpenFlow13')
@@ -50,7 +50,7 @@ def myNetwork():
     s24 = net.addSwitch('s24', cls=OVSKernelSwitch, protocols='OpenFlow13')
     s25 = net.addSwitch('s25', cls=OVSKernelSwitch, protocols='OpenFlow13')
     s26 = net.addSwitch('s26', cls=OVSKernelSwitch, protocols='OpenFlow13')
-    s27 = net.addSwitch('s27', cls=OVSKernelSwitch, protocols='OpenFlow13')
+    s27 = net.addSwitch('s27', dpid='0000000000000027', cls=OVSKernelSwitch, protocols='OpenFlow13')
     s28 = net.addSwitch('s28', cls=OVSKernelSwitch, protocols='OpenFlow13')
     s29 = net.addSwitch('s29', cls=OVSKernelSwitch, protocols='OpenFlow13')
 
@@ -89,7 +89,7 @@ def myNetwork():
     net.addLink(s29, s23)
 
     h1 = net.addHost('h1', cls=Host, ip='10.0.0.1', defaultRoute=None)
-    net.addLink(h1, s3)
+    net.addLink(h1, s2)
     h2 = net.addHost('h2', cls=Host, ip='10.0.0.2', defaultRoute=None)
     net.addLink(h2, s3)
     h3 = net.addHost('h3', cls=Host, ip='10.0.0.3', defaultRoute=None)
