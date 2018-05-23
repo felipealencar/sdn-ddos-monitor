@@ -88,7 +88,7 @@ class SimpleMonitor13(simple_switch_stp_13.SimpleSwitch13):
                              stat.packet_count, stat.byte_count, stat.duration_sec,
                              stat.duration_nsec, stat.flags)
             with open('../dataset/monitor-ddos-flow-stats.csv', 'ab') as csvfile:
-                fieldnames = ['datapath', 'in-port', 'eth-dst', 'out-port',
+                fieldnames = ['datapath', 'in-port', 'eth-src', 'eth-dst', 'out-port',
                               'packets', 'bytes', 'duration-sec', 'duration-nsec', 'flags']
                 writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
                 if csvfile.tell() == 0:
