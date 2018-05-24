@@ -89,9 +89,9 @@ class SimpleSwitch13(simple_switch_13.SimpleSwitch13):
             if ip.src == '10.0.0.1':
                 actions = [parser.OFPActionSetField(vlan_vid=1), parser.OFPActionOutput(out_port)]
             else:
-                actions = [parser.OFPActionOutput(out_port)]
+                actions = [parser.OFPActionSetField(vlan_vid=0), parser.OFPActionOutput(out_port)]
         else:
-            actions = [parser.OFPActionOutput(out_port)]
+            actions = [parser.OFPActionSetField(vlan_vid=0), parser.OFPActionOutput(out_port)]
 
         # install a flow to avoid packet_in next time
         if out_port != ofproto.OFPP_FLOOD:
