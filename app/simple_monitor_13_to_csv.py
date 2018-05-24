@@ -58,7 +58,7 @@ class SimpleMonitor13(simple_switch_stp_13.SimpleSwitch13):
         ofproto = datapath.ofproto
         parser = datapath.ofproto_parser
 
-        req = parser.OFPFlowStatsRequest(datapath, 0, ofproto.OFPP_ANY)
+        req = parser.OFPFlowStatsRequest(datapath)
         datapath.send_msg(req)
 
         req = parser.OFPMeterStatsRequest
@@ -77,9 +77,9 @@ class SimpleMonitor13(simple_switch_stp_13.SimpleSwitch13):
         #self.logger.info('---------------- '
         #                 '-------- ----------------- '
         #                 '-------- -------- --------')
-        #datapath_id = "%016x" % ev.msg.datapath.id
-        #if datapath_id == "0000000000000002":
-        self.logger.info(body)
+        datapath_id = "%016x" % ev.msg.datapath.id
+        if datapath_id == "0000000000000002":
+            self.logger.info(body)
         for stat in sorted([flow for flow in body],
                            key=lambda flow: (flow.match['in_port'],
                                              flow.match['eth_dst'])):
