@@ -78,7 +78,6 @@ class SimpleMonitor13(simple_switch_stp_13.SimpleSwitch13):
         #                 '-------- ----------------- '
         #                 '-------- -------- --------')
         datapath_id = "%016x" % ev.msg.datapath.id
-        print datapath_id
         if datapath_id == "0000000000000002":
             self.logger.info(body)
         for stat in sorted([flow for flow in body if flow.priority == 1],
@@ -100,7 +99,9 @@ class SimpleMonitor13(simple_switch_stp_13.SimpleSwitch13):
                 datapath_id = "%016x" % ev.msg.datapath.id
                 inport = "%8x" % stat.match['in_port']
                 eth_dst = "%17s" % stat.match['eth_dst']
-                outport = "%8x" % stat.instructions[0].actions[0].port
+                vlan = "%8x" % stat.instructions[0].actions[0]
+                print ('vlan', vlan)
+                outport = "%8x" % stat.instructions[1].actions[0].port
                 packets = "%8d" % stat.packet_count
                 bytes = "%8d" % stat.byte_count
                 duration_sec = "%d" % stat.duration_sec
