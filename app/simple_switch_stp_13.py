@@ -85,11 +85,12 @@ class SimpleSwitch13(simple_switch_13.SimpleSwitch13):
             out_port = ofproto.OFPP_FLOOD
 
         ip = pkt.get_protocols(ipv4.ipv4)
-        if ip and ip.src != '10.0.0.1':
-            print('entrou')
-            actions = [parser.OFPActionSetField(vlan_vid=1), parser.OFPActionOutput(out_port)]
-        else:
-            actions = [parser.OFPActionOutput(out_port)]
+        print ip
+        #if ip and ip.src != '10.0.0.1':
+        #    print('entrou')
+        #    actions = [parser.OFPActionSetField(vlan_vid=1), parser.OFPActionOutput(out_port)]
+        #else:
+        actions = [parser.OFPActionOutput(out_port)]
 
         # install a flow to avoid packet_in next time
         if out_port != ofproto.OFPP_FLOOD:
