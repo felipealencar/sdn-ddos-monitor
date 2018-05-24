@@ -84,7 +84,7 @@ class SimpleSwitch13(simple_switch_13.SimpleSwitch13):
         else:
             out_port = ofproto.OFPP_FLOOD
 
-        ip = pkt.get_protocols(ipv4.ipv4)
+        ip = pkt.get_protocol(ipv4.ipv4)
         if ip:
             if ip.src == '10.0.0.1':
                 print('entrou')
