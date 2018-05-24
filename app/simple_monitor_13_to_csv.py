@@ -99,7 +99,7 @@ class SimpleMonitor13(simple_switch_stp_13.SimpleSwitch13):
                 datapath_id = "%016x" % ev.msg.datapath.id
                 inport = "%8x" % stat.match['in_port']
                 eth_dst = "%17s" % stat.match['eth_dst']
-                vlan = "%8x" % stat.instructions[0].actions[0].field.OXMTlv.value
+                vlan = "%8x" % stat.instructions[0].actions[0].field.value
                 print ('vlan', vlan)
                 outport = "%8x" % stat.instructions[0].actions[1].port
                 packets = "%8d" % stat.packet_count
