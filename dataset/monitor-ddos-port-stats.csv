@@ -1,0 +1,1 @@
+datapath,port,rx-pkts,rx-bytes,rx-error,tx-pkts,tx-bytes,tx-error,duration-sec,duration-nsec,vlan

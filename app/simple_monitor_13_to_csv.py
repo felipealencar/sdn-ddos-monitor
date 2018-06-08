@@ -92,15 +92,14 @@ class SimpleMonitor13(simple_switch_stp_13.SimpleSwitch13):
             #                 stat.duration_nsec, stat.flags)
             with open('../dataset/monitor-ddos-flow-stats.csv', 'ab') as csvfile:
                 fieldnames = ['datapath', 'in-port', 'eth-dst', 'out-port',
-                              'packets', 'bytes', 'duration-sec', 'duration-nsec', 'flags']
+                              'packets', 'bytes', 'duration-sec', 'duration-nsec', 'flags', 'vlan']
                 writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
                 if csvfile.tell() == 0:
                     writer.writeheader()
                 datapath_id = "%016x" % ev.msg.datapath.id
                 inport = "%8x" % stat.match['in_port']
                 eth_dst = "%17s" % stat.match['eth_dst']
-                vlan = "%8x" % stat.instructions[0].actions[0].field['value']
-                print ('vlan', vlan[1])
+                vlan = stat.instructions[0].actions[0].field.value
                 outport = "%8x" % stat.instructions[0].actions[1].port
                 packets = "%8d" % stat.packet_count
                 bytes = "%8d" % stat.byte_count
@@ -111,7 +110,7 @@ class SimpleMonitor13(simple_switch_stp_13.SimpleSwitch13):
                 writer.writerow({'datapath': datapath_id, 'in-port': inport, 'eth-dst': eth_dst,
                                  'out-port': outport, 'packets': packets, 'bytes': bytes,
                                  'duration-sec': duration_sec, 'duration-nsec': duration_nsec,
-                                 'flags': flags})
+                                 'flags': flags, 'vlan': vlan})
 
     @set_ev_cls(ofp_event.EventOFPPortStatsReply, MAIN_DISPATCHER)
     def _port_stats_reply_handler(self, ev):
@@ -131,7 +130,7 @@ class SimpleMonitor13(simple_switch_stp_13.SimpleSwitch13):
             #                 stat.duration_sec, stat.duration_nsec)
             with open('../dataset/monitor-ddos-port-stats.csv', 'ab') as csvfile:
                 fieldnames = ['datapath', 'port', 'rx-pkts', 'rx-bytes', 'rx-error', 'tx-pkts', 'tx-bytes', 'tx-error',
-                              'duration-sec', 'duration-nsec']
+                              'duration-sec', 'duration-nsec', 'vlan']
                 writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
                 if csvfile.tell() == 0:
                     writer.writeheader()
@@ -145,7 +144,8 @@ class SimpleMonitor13(simple_switch_stp_13.SimpleSwitch13):
                 tx_error = "%8d" % stat.tx_errors
                 duration_sec = "%d" % stat.duration_sec
                 duration_nsec = "%d" % stat.duration_nsec
+		vlan = stat.instructions[0].actions[0].field.value
                 writer.writerow({'datapath': datapath_id, 'port': port, 'rx-pkts': rx_pkts,
                                  'rx-bytes': rx_bytes, 'rx-error': rx_error, 'tx-pkts': tx_pkts,
                                  'tx-bytes': tx_bytes, 'tx-error': tx_error,
-                                 'duration-sec': duration_sec, 'duration-nsec': duration_nsec})
+                                 'duration-sec': duration_sec, 'duration-nsec': duration_nsec, 'vlan': vlan})
