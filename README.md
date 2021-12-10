@@ -1,6 +1,6 @@
 # The SDN-DDoS-Monitor
 
-SDN-DDoS-Monitor is an application developed by Felipe A. Lopes (contato@felipalencar.net) in the scope of the P4Sec project, which is carried out as a joint collaboration between UC San Diego, CAIDA, and Texas A&M University (USA), and INF/UFRGS, UnB, and UFPE (Brazil). This application uses the K-means algorithm to perform the detection of DDoS attacks in an SDN network.
+SDN-DDoS-Monitor is an application developed by Felipe A. Lopes (fal3@cin.ufpe.br) in the scope of the P4Sec project, which is carried out as a joint collaboration between UC San Diego, CAIDA, and Texas A&M University (USA), and INF/UFRGS, UnB, and UFPE (Brazil). This application uses the K-means algorithm to perform the detection of DDoS attacks in an SDN network.
 
 ## K-means algorithm and DDoS detection
 
